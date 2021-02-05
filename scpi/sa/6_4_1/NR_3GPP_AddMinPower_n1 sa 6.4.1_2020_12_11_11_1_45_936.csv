@@ -1,0 +1,8 @@
+startTime:2020/12/11 11:01:45
+toolVersion:1.0.7611.31201
+PASS:3,FAIL:0,Total:3
+Time:00:02:54
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n1,384500,-60,22.18,DFT,NR_5MHZ,SCS15,DFT_RefSensRBAllocation:25@0,2,NR_QPSK,CP_Outer_Full:25@0,2,NA,NA,NA,NA,NA,NR_6_4_1_Frequency_error,Frequency Error,0.00,-0.1,0.1,ppm,PASS
+NR,n1,385500,-60,22.00,DFT,NR_15MHZ,SCS15,DFT_RefSensRBAllocation:75@4,2,NR_QPSK,CP_Outer_Full:79@0,2,NA,NA,NA,NA,NA,NR_6_4_1_Frequency_error,Frequency Error,0.00,-0.1,0.1,ppm,PASS
+NR,n1,386000,-60,21.98,DFT,NR_20MHZ,SCS15,DFT_RefSensRBAllocation:100@6,2,NR_QPSK,CP_Outer_Full:106@0,2,NA,NA,NA,NA,NA,NR_6_4_1_Frequency_error,Frequency Error,0.00,-0.1,0.1,ppm,PASS

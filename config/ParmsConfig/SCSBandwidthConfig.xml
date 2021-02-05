@@ -1,0 +1,70 @@
+<xml>
+	<n1_20_FDD>
+		<SCS_15>
+			<Low>5</Low>
+			<Mid>15</Mid>
+			<High>20</High>
+		</SCS_15>
+		<SCS_30>
+			<Low>10</Low>
+			<Mid>15</Mid>
+			<High>20</High>
+		</SCS_30>
+		<SCS_60>
+			<Low>10</Low>
+			<Mid>15</Mid>
+			<High>20</High>
+		</SCS_60>
+	</n1_20_FDD>
+	<n1_40_FDD>
+		<SCS_15>
+			<Low>5</Low>
+			<Mid>20</Mid>
+			<High>40</High>
+		</SCS_15>
+		<SCS_30>
+			<Low>10</Low>
+			<Mid>20</Mid>
+			<High>40</High>
+		</SCS_30>
+		<SCS_60>
+			<Low>10</Low>
+			<Mid>20</Mid>
+			<High>40</High>
+		</SCS_60>
+	</n1_40_FDD>
+	<n78_TDD>
+		<!-- <SCS_15>
+			<Low>10</Low>
+			<Mid>20</Mid>
+			<High>50</High>
+		</SCS_15> -->
+		<SCS_30>
+			<Low>10</Low>
+			<Mid>50</Mid>
+			<High>100</High>
+		</SCS_30>
+		<SCS_60>
+			<Low>10</Low>
+			<Mid>50</Mid>
+			<High>100</High>
+		</SCS_60>
+	</n78_TDD>
+	<n79_TDD>
+		<!-- <SCS_15>
+			<Low>10</Low>
+			<Mid>20</Mid>
+			<High>50</High>
+		</SCS_15> -->
+		<SCS_30>
+			<Low>40</Low>
+			<Mid>60</Mid>
+			<High>100</High>
+		</SCS_30>
+		<SCS_60>
+			<Low>40</Low>
+			<Mid>60</Mid>
+			<High>100</High>
+		</SCS_60>
+	</n79_TDD>
+</xml>

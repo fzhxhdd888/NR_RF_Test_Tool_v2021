@@ -1,0 +1,14 @@
+startTime:2020/12/29 8:54:47
+toolVersion:1.0.7654.38979
+PASS:9,FAIL:0,Total:9
+Time:00:03:58
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n1,384500,-99.3,,DFT,NR_5MHZ,SCS15,DFT_RefSensRBAllocation:25@0,2,NR_QPSK,CP_Outer_Full:25@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2020-12-29 8:56:0,BLER,0.10,0,5,%,PASS
+NR,n1,390000,-99.3,,DFT,NR_5MHZ,SCS15,DFT_RefSensRBAllocation:25@0,2,NR_QPSK,CP_Outer_Full:25@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2020-12-29 8:56:20,BLER,0.25,0,5,%,PASS
+NR,n1,395500,-99.3,,DFT,NR_5MHZ,SCS15,DFT_RefSensRBAllocation:25@0,2,NR_QPSK,CP_Outer_Full:25@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2020-12-29 8:56:39,BLER,0.65,0,5,%,PASS
+NR,n1,385500,-94.3,,DFT,NR_15MHZ,SCS15,DFT_RefSensRBAllocation:75@4,2,NR_QPSK,CP_Outer_Full:79@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2020-12-29 8:56:59,BLER,0.05,0,5,%,PASS
+NR,n1,390000,-94.3,,DFT,NR_15MHZ,SCS15,DFT_RefSensRBAllocation:75@4,2,NR_QPSK,CP_Outer_Full:79@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2020-12-29 8:57:18,BLER,0.00,0,5,%,PASS
+NR,n1,394500,-94.3,,DFT,NR_15MHZ,SCS15,DFT_RefSensRBAllocation:75@4,2,NR_QPSK,CP_Outer_Full:79@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2020-12-29 8:57:38,BLER,0.00,0,5,%,PASS
+NR,n1,386000,-93.1,,DFT,NR_20MHZ,SCS15,DFT_RefSensRBAllocation:100@6,2,NR_QPSK,CP_Outer_Full:106@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2020-12-29 8:57:58,BLER,0.00,0,5,%,PASS
+NR,n1,390000,-93.1,,DFT,NR_20MHZ,SCS15,DFT_RefSensRBAllocation:100@6,2,NR_QPSK,CP_Outer_Full:106@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2020-12-29 8:58:19,BLER,0.00,0,5,%,PASS
+NR,n1,394000,-93.1,,DFT,NR_20MHZ,SCS15,DFT_RefSensRBAllocation:100@6,2,NR_QPSK,CP_Outer_Full:106@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2020-12-29 8:58:39,BLER,0.05,0,5,%,PASS

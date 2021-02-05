@@ -1,0 +1,13 @@
+startTime:2020/12/21 8:54:49
+toolVersion:1.0.7611.31201
+PASS:2,FAIL:0,Total:18
+Time:00:01:48
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n1,384500,-60,22.05,DFT,NR_5MHZ,SCS15,DFT_Outer_Full:25@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,EVM Equalizer Spectrum Flatness: Ripple1,0.27,0,9.4,dB,PASS
+NR,n1,384500,-60,22.05,DFT,NR_5MHZ,SCS15,DFT_Outer_Full:25@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,EVM Equalizer Spectrum Flatness: Ripple2,0.28,0,8.4,dB,PASS
+NR,n1,384500,-60,22.05,DFT,NR_5MHZ,SCS15,DFT_Outer_Full:25@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,EVM Equalizer Spectrum Flatness: Ripple12,0.14,0,5.4,dB,PASS
+NR,n1,384500,-60,22.05,DFT,NR_5MHZ,SCS15,DFT_Outer_Full:25@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,EVM Equalizer Spectrum Flatness: Ripple21,0.41,0,6.4,dB,PASS
+NR,n1,384500,-60,20.04,CP,NR_5MHZ,SCS15,CP_Outer_Full:25@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,EVM Equalizer Spectrum Flatness: Ripple1,0.36,0,9.4,dB,PASS
+NR,n1,384500,-60,20.04,CP,NR_5MHZ,SCS15,CP_Outer_Full:25@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,EVM Equalizer Spectrum Flatness: Ripple2,0.29,0,8.4,dB,PASS
+NR,n1,384500,-60,20.04,CP,NR_5MHZ,SCS15,CP_Outer_Full:25@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,EVM Equalizer Spectrum Flatness: Ripple12,0.22,0,5.4,dB,PASS
+NR,n1,384500,-60,20.04,CP,NR_5MHZ,SCS15,CP_Outer_Full:25@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,EVM Equalizer Spectrum Flatness: Ripple21,0.42,0,6.4,dB,PASS

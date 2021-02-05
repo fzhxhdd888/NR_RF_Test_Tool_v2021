@@ -1,0 +1,10 @@
+<xml>
+	<lastconfig>
+		<lossfilepath1>D:/NR_RF_Test_Tool_v201/rfc/NSA.loss</lossfilepath1>
+		<lossfilepath2>D:/NR_RF_Test_Tool_v201/rfc/NSA.loss</lossfilepath2>
+		<lossfilepath3>D:/NR_RF_Test_Tool_v201/rfc/NSA.loss</lossfilepath3>
+		<lossfilepath4>D:/NR_RF_Test_Tool_v201/rfc/NSA.loss</lossfilepath4>
+		<reportpath>D:/NR_RF_Test_Tool_v201/result/11.xlsx</reportpath>
+		<DUT>Di2UL 5G</DUT>
+	</lastconfig>
+</xml>

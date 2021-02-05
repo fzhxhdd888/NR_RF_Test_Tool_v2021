@@ -1,0 +1,32 @@
+<xml>
+	<step>
+		<params>
+			<name>enable</name>
+			<value>True</value>
+		</params>
+		<params>
+			<name>BW</name>
+			<value>All</value>
+		</params>
+		<params>
+			<name>Channel</name>
+			<value>Mid or LMH</value>
+		</params>
+		<params>
+			<name>SCS</name>
+			<value>Low</value>
+		</params>
+		<params>
+			<name>testid</name>
+			<value>1</value>
+		</params>
+		<params>
+			<name>Modulation</name>
+			<value>CP-OFDM QPSK</value>
+		</params>
+		<params>
+			<name>RBAllocation</name>
+			<value>Outer Full</value>
+		</params>
+	</step>
+</xml>

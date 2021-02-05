@@ -1,0 +1,13 @@
+startTime:2021/1/11 9:39:04
+toolVersion:1.0.7654.38979
+PASS:4,FAIL:0,Total:12
+Time:00:04:37
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n78,621668,-60,11.69,DFT,NR_50MHZ,SCS30,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_2_Carrier_leakage,2021-1-11 9:42:39,Uplink Power: TargetPow:12.15,11.69,10,14.3,dBm,PASS
+NR,n78,621668,-60,11.69,DFT,NR_50MHZ,SCS30,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_2_Carrier_leakage,2021-1-11 9:42:39,Carrier Leakage: TargetPow:12.15,-57.57,-99,-28,dB,PASS
+NR,n78,621668,-60,1.64,DFT,NR_50MHZ,SCS30,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_2_Carrier_leakage,2021-1-11 9:42:46,Uplink Power: TargetPow:2.15,1.64,0,4.3,dBm,PASS
+NR,n78,621668,-60,1.64,DFT,NR_50MHZ,SCS30,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_2_Carrier_leakage,2021-1-11 9:42:46,Carrier Leakage: TargetPow:2.15,-52.64,-99,-25,dB,PASS
+NR,n78,621668,-60,-28.73,DFT,NR_50MHZ,SCS30,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_2_Carrier_leakage,2021-1-11 9:42:52,Uplink Power: TargetPow:-27.85,-28.73,-30,-25.7,dBm,PASS
+NR,n78,621668,-60,-28.73,DFT,NR_50MHZ,SCS30,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_2_Carrier_leakage,2021-1-11 9:42:52,Carrier Leakage: TargetPow:-27.85,-50.70,-99,-20,dB,PASS
+NR,n78,621668,-60,-34.37,DFT,NR_50MHZ,SCS30,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_2_Carrier_leakage,2021-1-11 9:42:59,Uplink Power:MinPower,-34.37,-36,-31.7,dBm,PASS
+NR,n78,621668,-60,-34.37,DFT,NR_50MHZ,SCS30,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_2_Carrier_leakage,2021-1-11 9:42:59,Carrier Leakage:MinPower,-44.44,-99,-10,dB,PASS

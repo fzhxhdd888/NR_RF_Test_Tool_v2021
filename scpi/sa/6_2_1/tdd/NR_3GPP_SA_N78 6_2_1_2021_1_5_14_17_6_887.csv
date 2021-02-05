@@ -1,0 +1,11 @@
+startTime:2021/1/5 14:17:06
+toolVersion:1.0.7654.38979
+PASS:6,FAIL:0,Total:54
+Time:00:02:27
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n78,620334,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_1_UE_maximum_output_power,2021-1-5 14:18:10,Maximum Output Power,23.78,19,26,dBm,PASS
+NR,n78,620334,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_1RB_Left:1@1,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_1_UE_maximum_output_power,2021-1-5 14:18:17,Maximum Output Power,23.66,19,26,dBm,PASS
+NR,n78,620334,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_1RB_Right:1@22,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_1_UE_maximum_output_power,2021-1-5 14:18:24,Maximum Output Power,23.65,19,26,dBm,PASS
+NR,n78,620334,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_1_UE_maximum_output_power,2021-1-5 14:18:30,Maximum Output Power,23.71,19,26,dBm,PASS
+NR,n78,620334,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_1_UE_maximum_output_power,2021-1-5 14:18:37,Maximum Output Power,23.70,19,26,dBm,PASS
+NR,n78,620334,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_1RB_Right:1@22,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_1_UE_maximum_output_power,2021-1-5 14:18:43,Maximum Output Power,23.61,19,26,dBm,PASS

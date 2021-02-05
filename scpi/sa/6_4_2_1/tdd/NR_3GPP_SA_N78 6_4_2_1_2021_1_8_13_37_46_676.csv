@@ -1,0 +1,59 @@
+startTime:2021/1/8 13:37:46
+toolVersion:1.0.7654.38979
+PASS:25,FAIL:2,Total:168
+Time:00:06:18
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n78,620334,-60,23.89,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:4,Uplink Power:MaxPower,23.89,21.8,29,dBm,PASS
+NR,n78,620334,-60,23.89,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:4,Error Vector Magnitude:MaxPower,3.45;3.63,0,30,%,PASS
+NR,n78,620334,-60,22.86,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:11,Uplink Power:MaxPower,22.86,20.8,29,dBm,PASS
+NR,n78,620334,-60,22.86,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:11,Error Vector Magnitude:MaxPower,4.01;4.09,0,30,%,PASS
+NR,n78,620334,-60,23.83,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:18,Uplink Power:MaxPower,23.83,19,26,dBm,PASS
+NR,n78,620334,-60,23.83,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:18,Error Vector Magnitude:MaxPower,3.95;3.84,0,17.5,%,PASS
+NR,n78,620334,-60,22.80,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:24,Uplink Power:MaxPower,22.80,18,26,dBm,PASS
+NR,n78,620334,-60,22.80,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:24,Error Vector Magnitude:MaxPower,3.82;3.63,0,17.5,%,PASS
+NR,n78,620334,-60,22.71,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:30,Uplink Power:MaxPower,22.71,18,26,dBm,PASS
+NR,n78,620334,-60,22.71,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:30,Error Vector Magnitude:MaxPower,4.05;4.15,0,12.5,%,PASS
+NR,n78,620334,-60,21.69,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:37,Uplink Power:MaxPower,21.69,17,26,dBm,PASS
+NR,n78,620334,-60,21.69,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:37,Error Vector Magnitude:MaxPower,5.11;3.65,0,12.5,%,PASS
+NR,n78,620334,-60,21.28,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,20,NR_64QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:43,Uplink Power:MaxPower,21.28,16.5,26,dBm,PASS
+NR,n78,620334,-60,21.28,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,20,NR_64QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:39:43,Error Vector Magnitude:MaxPower,4.16;3.92,0,8,%,PASS
+NR,n78,620334,-60,19.33,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,27,NR_256QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:40:29,Uplink Power:MaxPower,19.33,13.5,26,dBm,PASS
+NR,n78,620334,-60,19.33,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,27,NR_256QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:40:29,Error Vector Magnitude:MaxPower,3.93;3.38,0,3.5,%,FAIL
+NR,n78,620334,-60,22.39,CP,NR_10MHZ,SCS30,CP_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:40:48,Uplink Power:MaxPower,22.39,17.5,26,dBm,PASS
+NR,n78,620334,-60,22.39,CP,NR_10MHZ,SCS30,CP_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:40:48,Error Vector Magnitude:MaxPower,4.91;4.44,0,17.5,%,PASS
+NR,n78,620334,-60,19.30,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:40:54,Uplink Power:MaxPower,19.30,16,26,dBm,PASS
+NR,n78,620334,-60,19.30,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:40:54,Error Vector Magnitude:MaxPower,4.84;4.58,0,17.5,%,PASS
+NR,n78,620334,-60,21.82,CP,NR_10MHZ,SCS30,CP_Inner_Full:12@6,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:41:1,Uplink Power:MaxPower,21.82,17,26,dBm,PASS
+NR,n78,620334,-60,21.82,CP,NR_10MHZ,SCS30,CP_Inner_Full:12@6,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:41:1,Error Vector Magnitude:MaxPower,4.19;3.93,0,12.5,%,PASS
+NR,n78,620334,-60,20.80,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:41:7,Uplink Power:MaxPower,20.80,16,26,dBm,PASS
+NR,n78,620334,-60,20.80,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:41:7,Error Vector Magnitude:MaxPower,4.54;4.86,0,12.5,%,PASS
+NR,n78,620334,-60,20.25,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,20,NR_64QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:41:14,Uplink Power:MaxPower,20.25,15,26,dBm,PASS
+NR,n78,620334,-60,20.25,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,20,NR_64QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:41:14,Error Vector Magnitude:MaxPower,4.78;4.54,0,8,%,PASS
+NR,n78,620334,-60,17.27,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,27,NR_256QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:41:58,Uplink Power:MaxPower,17.27,10.5,26,dBm,PASS
+NR,n78,620334,-60,17.27,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,27,NR_256QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:41:58,Error Vector Magnitude:MaxPower,3.89;3.38,0,3.5,%,FAIL
+NR,n78,620334,-60,-39.00,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:17,Uplink Power:MinPower,-39.00,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-39.00,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:17,Error Vector Magnitude:MinPower,3.69;4.35,0,30,%,PASS
+NR,n78,620334,-60,-38.99,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:24,Uplink Power:MinPower,-38.99,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-38.99,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:24,Error Vector Magnitude:MinPower,4.20;4.38,0,30,%,PASS
+NR,n78,620334,-60,-39.01,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:31,Uplink Power:MinPower,-39.01,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-39.01,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:31,Error Vector Magnitude:MinPower,3.99;4.73,0,17.5,%,PASS
+NR,n78,620334,-60,-39.00,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:37,Uplink Power:MinPower,-39.00,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-39.00,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:37,Error Vector Magnitude:MinPower,4.42;4.96,0,17.5,%,PASS
+NR,n78,620334,-60,-38.98,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:43,Uplink Power:MinPower,-38.98,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-38.98,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:43,Error Vector Magnitude:MinPower,3.39;4.02,0,12.5,%,PASS
+NR,n78,620334,-60,-39.02,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:50,Uplink Power:MinPower,-39.02,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-39.02,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:50,Error Vector Magnitude:MinPower,4.35;4.82,0,12.5,%,PASS
+NR,n78,620334,-60,-39.00,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,20,NR_64QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:56,Uplink Power:MinPower,-39.00,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-39.00,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,20,NR_64QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:42:56,Error Vector Magnitude:MinPower,4.71;4.36,0,8,%,PASS
+NR,n78,620334,-60,-29.05,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,27,NR_256QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:2,Uplink Power:MinPower,-29.05,-30,-26.3,dBm,PASS
+NR,n78,620334,-60,-29.05,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,27,NR_256QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:2,Error Vector Magnitude:MinPower,3.01;3.27,0,3.5,%,PASS
+NR,n78,620334,-60,-38.92,CP,NR_10MHZ,SCS30,CP_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:8,Uplink Power:MinPower,-38.92,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-38.92,CP,NR_10MHZ,SCS30,CP_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:8,Error Vector Magnitude:MinPower,3.39;3.18,0,17.5,%,PASS
+NR,n78,620334,-60,-38.93,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:15,Uplink Power:MinPower,-38.93,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-38.93,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:15,Error Vector Magnitude:MinPower,4.29;4.43,0,17.5,%,PASS
+NR,n78,620334,-60,-38.96,CP,NR_10MHZ,SCS30,CP_Inner_Full:12@6,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:23,Uplink Power:MinPower,-38.96,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-38.96,CP,NR_10MHZ,SCS30,CP_Inner_Full:12@6,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:23,Error Vector Magnitude:MinPower,3.76;3.35,0,12.5,%,PASS
+NR,n78,620334,-60,-39.09,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:29,Uplink Power:MinPower,-39.09,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-39.09,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,15,NR_16QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:29,Error Vector Magnitude:MinPower,4.62;4.75,0,12.5,%,PASS
+NR,n78,620334,-60,-39.11,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,20,NR_64QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:35,Uplink Power:MinPower,-39.11,-40,-36.3,dBm,PASS
+NR,n78,620334,-60,-39.11,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,20,NR_64QAM,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_1_Error_Vector_Magnitude,2021-1-8 13:43:35,Error Vector Magnitude:MinPower,4.40;4.35,0,8,%,PASS

@@ -1,0 +1,21 @@
+<xml>
+	<DUTCONFIG>
+		<Brand />
+		<HWVersion />
+		<SWVersion />
+		<SN />
+		<IMEI />
+		<MAXREGTIME>90</MAXREGTIME>
+		<AUTOMODE>3</AUTOMODE>
+		<COMPORT>17</COMPORT>
+		<HV>12</HV>
+		<NV>12</NV>
+		<LV>12</LV>
+		<MAXC>2</MAXC>
+		<HT>70</HT>
+		<NT>25</NT>
+		<LT>-30</LT>
+		<halfpi>1</halfpi>
+		<powerclass>3</powerclass>
+	</DUTCONFIG>
+</xml>

@@ -1,0 +1,8 @@
+startTime:2020/12/8 17:08:59
+toolVersion:1.0.7611.31201
+PASS:1,FAIL:0,Total:6
+Time:00:02:18
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n1,385500,-55.2,,CP,NR_15MHZ,SCS15,CP_Outer_Full:79@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,Off Power Before,-75.17,-99,-48.5,dBm,PASS
+NR,n1,385500,-55.2,,CP,NR_15MHZ,SCS15,CP_Outer_Full:79@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,Off Power After,-75.25,-99,-48.5,dBm,PASS
+NR,n1,385500,-55.2,,CP,NR_15MHZ,SCS15,CP_Outer_Full:79@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,On Power,1.69,-10.5,10.5,dBm,PASS

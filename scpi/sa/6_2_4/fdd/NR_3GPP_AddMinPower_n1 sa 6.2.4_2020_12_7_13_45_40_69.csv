@@ -1,0 +1,16 @@
+startTime:2020/12/7 13:45:39
+toolVersion:1.0.7611.31201
+PASS:11,FAIL:0,Total:24
+Time:00:13:49
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n1,384500,-60,,DFT,NR_5MHZ,SCS15,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,Configured Transmitted Power,-11.02,-18,-2,dBm,PASS
+NR,n1,384500,-60,,DFT,NR_5MHZ,SCS15,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,Configured Transmitted Power,9.11,3,17,dBm,PASS
+NR,n1,384500,-60,,DFT,NR_5MHZ,SCS15,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,Configured Transmitted Power,14.12,9,21,dBm,PASS
+NR,n1,384500,-60,,DFT,NR_5MHZ,SCS15,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,Configured Transmitted Power,19.79,16.5,23.5,dBm,PASS
+NR,n1,384500,-60,,DFT,NR_5MHZ,SCS15,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,Configured Transmitted Power,-10.03,-18,-2,dBm,PASS
+NR,n1,384500,-60,,DFT,NR_5MHZ,SCS15,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,Configured Transmitted Power,9.10,3,17,dBm,PASS
+NR,n1,384500,-60,,DFT,NR_5MHZ,SCS15,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,Configured Transmitted Power,14.11,9,21,dBm,PASS
+NR,n1,384500,-60,,DFT,NR_5MHZ,SCS15,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,Configured Transmitted Power,19.09,16.5,23.5,dBm,PASS
+NR,n1,385500,-60,,DFT,NR_15MHZ,SCS15,DFT_Inner_Full:36@18,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,Configured Transmitted Power,-10.31,-18,-2,dBm,PASS
+NR,n1,385500,-60,,DFT,NR_15MHZ,SCS15,DFT_Inner_Full:36@18,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,Configured Transmitted Power,9.85,3,17,dBm,PASS
+NR,n1,385500,-60,,DFT,NR_15MHZ,SCS15,DFT_Inner_Full:36@18,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,Configured Transmitted Power,14.93,9,21,dBm,PASS

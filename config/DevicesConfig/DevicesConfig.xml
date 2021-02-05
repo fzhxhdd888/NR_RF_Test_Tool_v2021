@@ -1,0 +1,12 @@
+<xml>
+	<CU>
+		<DeviceName>CMX500</DeviceName>
+		<ConnectionType>TCPIP</ConnectionType>
+		<Address>192.168.100.100</Address>
+	</CU>
+	<PS>
+		<DeviceName>E3632A</DeviceName>
+		<ConnectionType>TCPIP</ConnectionType>
+		<Address>6</Address>
+	</PS>
+</xml>

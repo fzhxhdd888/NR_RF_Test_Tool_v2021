@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="actionicons">
+    <file>yes_24px.ico</file>
+    <file>cancel_24px.ico</file>
+    <file>loading.gif</file>
+    <file>timer_62x64.gif</file>
+    <file>lastconfig_64px.ico</file>
+    <file>arrow_down_up_64px.ico</file>
+    <file>RF_64px.ico</file>
+    <file>loss_24px.ico</file>
+    <file>loss_64px.ico</file>
+    <file>report_24px.ico</file>
+    <file>report_64px.ico</file>
+    <file>5G_64px.ico</file>
+    <file>dut_24px.ico</file>
+    <file>device2.ico</file>
+    <file>device.ico</file>
+    <file>dut_64px.ico</file>
+    <file>load_seq_64px.ico</file>
+    <file>Save_64px.ico</file>
+    <file>new_seq_64px.net.ico</file>
+    <file>Pause_64px.ico</file>
+    <file>Start_64px.ico</file>
+    <file>Stop_red_64px.ico</file>
+  </qresource>
+</RCC>

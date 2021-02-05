@@ -1,0 +1,14 @@
+startTime:2020/12/30 8:55:02
+toolVersion:1.0.7654.38979
+PASS:9,FAIL:0,Total:9
+Time:00:21:57
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n1,384500,-70,,DFT,NR_5MHZ,SCS15,DFT_RefSensRBAllocation:25@0,2,NR_QPSK,CP_Outer_Full:25@0,2,NA,NA,NA,NA,NA,NR_7_3_2_C_Reference_sensitivity_power_level_Search,2020-12-30 8:58:42,BLERSearch,-101.00,-999,-70,dBm,PASS
+NR,n1,390000,-70,,DFT,NR_5MHZ,SCS15,DFT_RefSensRBAllocation:25@0,2,NR_QPSK,CP_Outer_Full:25@0,2,NA,NA,NA,NA,NA,NR_7_3_2_C_Reference_sensitivity_power_level_Search,2020-12-30 9:0:35,BLERSearch,-100.80,-999,-70,dBm,PASS
+NR,n1,395500,-70,,DFT,NR_5MHZ,SCS15,DFT_RefSensRBAllocation:25@0,2,NR_QPSK,CP_Outer_Full:25@0,2,NA,NA,NA,NA,NA,NR_7_3_2_C_Reference_sensitivity_power_level_Search,2020-12-30 9:2:16,BLERSearch,-101.40,-999,-70,dBm,PASS
+NR,n1,385500,-70,,DFT,NR_15MHZ,SCS15,DFT_RefSensRBAllocation:75@4,2,NR_QPSK,CP_Outer_Full:79@0,2,NA,NA,NA,NA,NA,NR_7_3_2_C_Reference_sensitivity_power_level_Search,2020-12-30 9:4:3,BLERSearch,-97.00,-999,-70,dBm,PASS
+NR,n1,390000,-70,,DFT,NR_15MHZ,SCS15,DFT_RefSensRBAllocation:75@4,2,NR_QPSK,CP_Outer_Full:79@0,2,NA,NA,NA,NA,NA,NR_7_3_2_C_Reference_sensitivity_power_level_Search,2020-12-30 9:5:45,BLERSearch,-96.20,-999,-70,dBm,PASS
+NR,n1,394500,-70,,DFT,NR_15MHZ,SCS15,DFT_RefSensRBAllocation:75@4,2,NR_QPSK,CP_Outer_Full:79@0,2,NA,NA,NA,NA,NA,NR_7_3_2_C_Reference_sensitivity_power_level_Search,2020-12-30 9:10:46,BLERSearch,-97.00,-999,-70,dBm,PASS
+NR,n1,386000,-70,,DFT,NR_20MHZ,SCS15,DFT_RefSensRBAllocation:100@6,2,NR_QPSK,CP_Outer_Full:106@0,2,NA,NA,NA,NA,NA,NR_7_3_2_C_Reference_sensitivity_power_level_Search,2020-12-30 9:12:28,BLERSearch,-95.80,-999,-70,dBm,PASS
+NR,n1,390000,-70,,DFT,NR_20MHZ,SCS15,DFT_RefSensRBAllocation:100@6,2,NR_QPSK,CP_Outer_Full:106@0,2,NA,NA,NA,NA,NA,NR_7_3_2_C_Reference_sensitivity_power_level_Search,2020-12-30 9:13:55,BLERSearch,-95.00,-999,-70,dBm,PASS
+NR,n1,394000,-70,,DFT,NR_20MHZ,SCS15,DFT_RefSensRBAllocation:100@6,2,NR_QPSK,CP_Outer_Full:106@0,2,NA,NA,NA,NA,NA,NR_7_3_2_C_Reference_sensitivity_power_level_Search,2020-12-30 9:15:32,BLERSearch,-95.80,-999,-70,dBm,PASS

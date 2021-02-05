@@ -1,0 +1,23 @@
+<!--Refer to ts38 521-1 A.2--> 
+<xml>
+	<UL>
+		<DFT>
+			<halfpi_BPSK>64_0</halfpi_BPSK>
+			<QPSK>64_2</QPSK>
+			<QAM16>64_10</QAM16>       
+			<QAM64>64_18</QAM64>
+			<QAM256>256_20</QAM256>    
+		</DFT>
+		<CP>
+			<QPSK>64_2</QPSK>
+			<QAM16>64_10</QAM16>      
+			<QAM64>64_19</QAM64>
+			<QAM256>256_20</QAM256>    
+		</CP>
+	</UL>
+	<DL>
+		<QPSK>64_4</QPSK>
+		<QAM64>64_24</QAM64>
+		<QAM256>256_23</QAM256>
+	</DL>
+</xml>

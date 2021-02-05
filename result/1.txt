@@ -1,0 +1,2259 @@
+2021-02-03 14:59:15:        Instrument Initialization¡­¡­¡­¡­
+2021-02-03 14:59:15:        Initialization of CU¡­¡­¡­¡­
+2021-02-03 14:59:17:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-03 14:59:17:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-03 14:59:17:        Reset CU and reconnect DUT!
+2021-02-03 14:59:17:        NR sig parms init ---------------------------------
+2021-02-03 14:59:17:        Send AT command: AT+CFUN=0
+2021-02-03 14:59:17:        Reset CU ------------------------------------------
+2021-02-03 14:59:32:        Reset CU successed!
+2021-02-03 14:59:32:        Creat Network......
+2021-02-03 14:59:37:        Creat Network successed!
+2021-02-03 14:59:37:        Creat PLMN.....
+2021-02-03 14:59:38:        Creat PLMN successed!
+2021-02-03 14:59:38:        Creat NR Cell.......
+2021-02-03 14:59:38:        Creat NR Cell successed!
+2021-02-03 14:59:38:        Sig parms setting-------------------------------
+2021-02-03 14:59:43:        NetWork go to live......, pls wait!
+2021-02-03 15:00:11:        Sig parms setting completed!
+2021-02-03 15:00:11:        Send AT command: AT+CFUN=0
+2021-02-03 15:00:13:        Send AT command: AT+CFUN=1
+2021-02-03 15:00:13:        DUT Callsetup --------------------------------------------
+2021-02-03 15:00:15:        DUT connected!
+2021-02-03 15:00:15:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-03 15:00:16:        OnOff NR Cell and reconnect DUT!
+2021-02-03 15:00:16:        Send AT command: AT+CFUN=0
+2021-02-03 15:00:21:        Send AT command: AT+CFUN=1
+2021-02-03 15:00:22:        Check DUT connection state....
+2021-02-03 15:00:22:        DUT Connected!
+2021-02-03 15:00:22:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:5
+2021-02-03 15:00:22:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:00:40:        Check DUT connection state....
+2021-02-03 15:00:40:        DUT Connected!
+2021-02-03 15:00:40:        Get the value....
+2021-02-03 15:00:42:        Check DUT connection state....
+2021-02-03 15:00:42:        DUT Connected!
+2021-02-03 15:00:43:        EVM RMS: -999%
+2021-02-03 15:00:43:        EVM DMRS: -999%
+2021-02-03 15:00:45:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:01:04:        Check DUT connection state....
+2021-02-03 15:01:04:        DUT Connected!
+2021-02-03 15:01:04:        Get the value....
+2021-02-03 15:01:06:        Check DUT connection state....
+2021-02-03 15:01:06:        DUT Connected!
+2021-02-03 15:01:07:        EVM RMS: -999%
+2021-02-03 15:01:07:        EVM DMRS: -999%
+2021-02-03 15:01:09:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:6
+2021-02-03 15:01:09:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:01:27:        Check DUT connection state....
+2021-02-03 15:01:27:        DUT Connected!
+2021-02-03 15:01:27:        Get the value....
+2021-02-03 15:01:28:        EVM RMS: 1.55%
+2021-02-03 15:01:28:        EVM DMRS: 1.43%
+2021-02-03 15:01:30:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:01:57:        MeasParmsSetingfor6_4_2_1  failed, Program abnormal exit! Error: Exception class for VISA I/O errors.
+
+    Please note that all values for "error_code" are negative according to the
+    specification (VPP-4.3.2, observation 3.3.2) and the NI implementation.
+
+    
+2021-02-03 15:01:57:        Tip:    Program abnormal exit!2021-02-03 15:51:00:        Instrument Initialization¡­¡­¡­¡­
+2021-02-03 15:51:00:        Initialization of CU¡­¡­¡­¡­
+2021-02-03 15:51:02:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-03 15:51:02:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-03 15:51:02:        Reset CU and reconnect DUT!
+2021-02-03 15:51:02:        NR sig parms init ---------------------------------
+2021-02-03 15:51:03:        Send AT command: AT+CFUN=0
+2021-02-03 15:51:03:        Reset CU ------------------------------------------
+2021-02-03 15:51:31:        Reset CU successed!
+2021-02-03 15:51:32:        Creat Network......
+2021-02-03 15:51:37:        Creat Network successed!
+2021-02-03 15:51:37:        Creat PLMN.....
+2021-02-03 15:51:37:        Creat PLMN successed!
+2021-02-03 15:51:37:        Creat NR Cell.......
+2021-02-03 15:51:37:        Creat NR Cell successed!
+2021-02-03 15:51:37:        Sig parms setting-------------------------------
+2021-02-03 15:51:43:        NetWork go to live......, pls wait!
+2021-02-03 15:52:10:        Sig parms setting completed!
+2021-02-03 15:52:10:        Send AT command: AT+CFUN=0
+2021-02-03 15:52:12:        Send AT command: AT+CFUN=1
+2021-02-03 15:52:12:        DUT Callsetup --------------------------------------------
+2021-02-03 15:52:14:        DUT connected!
+2021-02-03 15:52:14:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-03 15:52:19:        OnOff NR Cell and reconnect DUT!
+2021-02-03 15:52:19:        Send AT command: AT+CFUN=0
+2021-02-03 15:52:23:        Send AT command: AT+CFUN=1
+2021-02-03 15:52:24:        Check DUT connection state....
+2021-02-03 15:52:24:        DUT Connected!
+2021-02-03 15:52:24:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:5
+2021-02-03 15:52:24:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:52:37:        Check DUT connection state....
+2021-02-03 15:52:37:        DUT Connected!
+2021-02-03 15:52:37:        Get the value....
+2021-02-03 15:52:39:        Check DUT connection state....
+2021-02-03 15:52:39:        DUT Connected!
+2021-02-03 15:52:40:        EVM RMS: -999%
+2021-02-03 15:52:40:        EVM DMRS: -999%
+2021-02-03 15:52:43:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:52:56:        Check DUT connection state....
+2021-02-03 15:52:56:        DUT Connected!
+2021-02-03 15:52:56:        Get the value....
+2021-02-03 15:52:58:        Check DUT connection state....
+2021-02-03 15:52:58:        DUT Connected!
+2021-02-03 15:52:59:        EVM RMS: -999%
+2021-02-03 15:52:59:        EVM DMRS: -999%
+2021-02-03 15:53:01:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:6
+2021-02-03 15:53:01:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:53:15:        Check DUT connection state....
+2021-02-03 15:53:15:        DUT Connected!
+2021-02-03 15:53:15:        Get the value....
+2021-02-03 15:53:17:        Check DUT connection state....
+2021-02-03 15:53:17:        DUT Connected!
+2021-02-03 15:53:18:        EVM RMS: -999%
+2021-02-03 15:53:18:        EVM DMRS: -999%
+2021-02-03 15:53:20:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:53:34:        Check DUT connection state....
+2021-02-03 15:53:34:        DUT Connected!
+2021-02-03 15:53:34:        Get the value....
+2021-02-03 15:53:36:        Check DUT connection state....
+2021-02-03 15:53:36:        DUT Connected!
+2021-02-03 15:53:37:        EVM RMS: -999%
+2021-02-03 15:53:37:        EVM DMRS: -999%
+2021-02-03 15:53:39:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:7
+2021-02-03 15:53:39:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:53:52:        Check DUT connection state....
+2021-02-03 15:53:52:        DUT Connected!
+2021-02-03 15:53:52:        Get the value....
+2021-02-03 15:53:54:        Check DUT connection state....
+2021-02-03 15:53:54:        DUT Connected!
+2021-02-03 15:53:56:        EVM RMS: -999%
+2021-02-03 15:53:56:        EVM DMRS: -999%
+2021-02-03 15:53:58:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:54:11:        Check DUT connection state....
+2021-02-03 15:54:11:        DUT Connected!
+2021-02-03 15:54:11:        Get the value....
+2021-02-03 15:54:13:        Check DUT connection state....
+2021-02-03 15:54:13:        DUT Connected!
+2021-02-03 15:54:14:        EVM RMS: -999%
+2021-02-03 15:54:14:        EVM DMRS: -999%
+2021-02-03 15:54:17:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:8
+2021-02-03 15:54:17:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:54:24:        User abort test£¡
+2021-02-03 15:54:24:        Tip:    Program abnormal exit!2021-02-03 15:54:40:        Instrument Initialization¡­¡­¡­¡­
+2021-02-03 15:54:40:        Initialization of CU¡­¡­¡­¡­
+2021-02-03 15:54:42:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-03 15:54:42:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-03 15:54:42:        Reset CU and reconnect DUT!
+2021-02-03 15:54:42:        NR sig parms init ---------------------------------
+2021-02-03 15:54:42:        Send AT command: AT+CFUN=0
+2021-02-03 15:54:42:        Reset CU ------------------------------------------
+2021-02-03 15:54:57:        Reset CU successed!
+2021-02-03 15:54:57:        Creat Network......
+2021-02-03 15:55:03:        Creat Network successed!
+2021-02-03 15:55:03:        Creat PLMN.....
+2021-02-03 15:55:03:        Creat PLMN successed!
+2021-02-03 15:55:03:        Creat NR Cell.......
+2021-02-03 15:55:03:        Creat NR Cell successed!
+2021-02-03 15:55:03:        Sig parms setting-------------------------------
+2021-02-03 15:55:08:        NetWork go to live......, pls wait!
+2021-02-03 15:55:36:        Sig parms setting completed!
+2021-02-03 15:55:36:        Send AT command: AT+CFUN=0
+2021-02-03 15:55:38:        Send AT command: AT+CFUN=1
+2021-02-03 15:55:38:        DUT Callsetup --------------------------------------------
+2021-02-03 15:55:40:        DUT connected!
+2021-02-03 15:55:40:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-03 15:55:41:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:1
+2021-02-03 15:55:41:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:55:55:        Check DUT connection state....
+2021-02-03 15:55:55:        DUT Connected!
+2021-02-03 15:55:55:        Get the value....
+2021-02-03 15:55:56:        EVM RMS: 1.84%
+2021-02-03 15:55:56:        EVM DMRS: 1.43%
+2021-02-03 15:55:58:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:56:12:        Check DUT connection state....
+2021-02-03 15:56:12:        DUT Connected!
+2021-02-03 15:56:12:        Get the value....
+2021-02-03 15:56:13:        EVM RMS: 2.32%
+2021-02-03 15:56:13:        EVM DMRS: 2.25%
+2021-02-03 15:56:15:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:2
+2021-02-03 15:56:15:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:56:28:        Check DUT connection state....
+2021-02-03 15:56:29:        DUT Connected!
+2021-02-03 15:56:29:        Get the value....
+2021-02-03 15:56:30:        EVM RMS: 1.52%
+2021-02-03 15:56:30:        EVM DMRS: 1.07%
+2021-02-03 15:56:32:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:56:45:        Check DUT connection state....
+2021-02-03 15:56:45:        DUT Connected!
+2021-02-03 15:56:45:        Get the value....
+2021-02-03 15:56:46:        EVM RMS: 2.37%
+2021-02-03 15:56:46:        EVM DMRS: 2.35%
+2021-02-03 15:56:49:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:3
+2021-02-03 15:56:49:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:57:02:        Check DUT connection state....
+2021-02-03 15:57:02:        DUT Connected!
+2021-02-03 15:57:02:        Get the value....
+2021-02-03 15:57:03:        EVM RMS: 1.74%
+2021-02-03 15:57:03:        EVM DMRS: 1.31%
+2021-02-03 15:57:05:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:57:19:        Check DUT connection state....
+2021-02-03 15:57:19:        DUT Connected!
+2021-02-03 15:57:19:        Get the value....
+2021-02-03 15:57:20:        EVM RMS: 2.31%
+2021-02-03 15:57:20:        EVM DMRS: 2.33%
+2021-02-03 15:57:22:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:4
+2021-02-03 15:57:22:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:57:36:        Check DUT connection state....
+2021-02-03 15:57:36:        DUT Connected!
+2021-02-03 15:57:36:        Get the value....
+2021-02-03 15:57:37:        EVM RMS: 1.48%
+2021-02-03 15:57:37:        EVM DMRS: 1.06%
+2021-02-03 15:57:39:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:57:53:        Check DUT connection state....
+2021-02-03 15:57:53:        DUT Connected!
+2021-02-03 15:57:53:        Get the value....
+2021-02-03 15:57:54:        EVM RMS: 2.78%
+2021-02-03 15:57:54:        EVM DMRS: 2.71%
+2021-02-03 15:57:56:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:5
+2021-02-03 15:57:56:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:58:09:        Check DUT connection state....
+2021-02-03 15:58:09:        DUT Connected!
+2021-02-03 15:58:09:        Get the value....
+2021-02-03 15:58:11:        EVM RMS: 1.81%
+2021-02-03 15:58:11:        EVM DMRS: 1.14%
+2021-02-03 15:58:13:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:58:26:        Check DUT connection state....
+2021-02-03 15:58:26:        DUT Connected!
+2021-02-03 15:58:26:        Get the value....
+2021-02-03 15:58:27:        EVM RMS: 2.26%
+2021-02-03 15:58:27:        EVM DMRS: 2.29%
+2021-02-03 15:58:30:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:6
+2021-02-03 15:58:30:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:58:43:        Check DUT connection state....
+2021-02-03 15:58:43:        DUT Connected!
+2021-02-03 15:58:43:        Get the value....
+2021-02-03 15:58:44:        EVM RMS: 1.65%
+2021-02-03 15:58:44:        EVM DMRS: 1.44%
+2021-02-03 15:58:47:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:59:00:        Check DUT connection state....
+2021-02-03 15:59:00:        DUT Connected!
+2021-02-03 15:59:00:        Get the value....
+2021-02-03 15:59:01:        EVM RMS: 2.50%
+2021-02-03 15:59:01:        EVM DMRS: 2.56%
+2021-02-03 15:59:04:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:7
+2021-02-03 15:59:04:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:59:17:        Check DUT connection state....
+2021-02-03 15:59:17:        DUT Connected!
+2021-02-03 15:59:17:        Get the value....
+2021-02-03 15:59:18:        EVM RMS: 1.57%
+2021-02-03 15:59:18:        EVM DMRS: 1.16%
+2021-02-03 15:59:20:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:59:34:        Check DUT connection state....
+2021-02-03 15:59:34:        DUT Connected!
+2021-02-03 15:59:34:        Get the value....
+2021-02-03 15:59:35:        EVM RMS: 2.53%
+2021-02-03 15:59:35:        EVM DMRS: 2.56%
+2021-02-03 15:59:38:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:8
+2021-02-03 15:59:38:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 15:59:51:        Check DUT connection state....
+2021-02-03 15:59:51:        DUT Connected!
+2021-02-03 15:59:51:        Get the value....
+2021-02-03 15:59:52:        EVM RMS: 1.33%
+2021-02-03 15:59:52:        EVM DMRS: 0.99%
+2021-02-03 15:59:54:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:00:08:        Check DUT connection state....
+2021-02-03 16:00:08:        DUT Connected!
+2021-02-03 16:00:08:        Get the value....
+2021-02-03 16:00:09:        EVM RMS: 1.21%
+2021-02-03 16:00:09:        EVM DMRS: 1.15%
+2021-02-03 16:00:12:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:9
+2021-02-03 16:00:12:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:00:25:        Check DUT connection state....
+2021-02-03 16:00:25:        DUT Connected!
+2021-02-03 16:00:25:        Get the value....
+2021-02-03 16:00:26:        EVM RMS: 3.17%
+2021-02-03 16:00:26:        EVM DMRS: 3.11%
+2021-02-03 16:00:28:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:00:42:        Check DUT connection state....
+2021-02-03 16:00:42:        DUT Connected!
+2021-02-03 16:00:42:        Get the value....
+2021-02-03 16:00:43:        EVM RMS: 1.79%
+2021-02-03 16:00:43:        EVM DMRS: 1.81%
+2021-02-03 16:00:46:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:10
+2021-02-03 16:00:46:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:00:59:        Check DUT connection state....
+2021-02-03 16:00:59:        DUT Connected!
+2021-02-03 16:00:59:        Get the value....
+2021-02-03 16:01:00:        EVM RMS: 2.32%
+2021-02-03 16:01:00:        EVM DMRS: 2.29%
+2021-02-03 16:01:03:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:01:16:        Check DUT connection state....
+2021-02-03 16:01:16:        DUT Connected!
+2021-02-03 16:01:16:        Get the value....
+2021-02-03 16:01:17:        EVM RMS: 2.53%
+2021-02-03 16:01:17:        EVM DMRS: 2.63%
+2021-02-03 16:01:20:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:11
+2021-02-03 16:01:20:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:01:33:        Check DUT connection state....
+2021-02-03 16:01:33:        DUT Connected!
+2021-02-03 16:01:33:        Get the value....
+2021-02-03 16:01:34:        EVM RMS: 2.94%
+2021-02-03 16:01:34:        EVM DMRS: 3.11%
+2021-02-03 16:01:37:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:01:50:        Check DUT connection state....
+2021-02-03 16:01:50:        DUT Connected!
+2021-02-03 16:01:50:        Get the value....
+2021-02-03 16:01:51:        EVM RMS: 2.21%
+2021-02-03 16:01:51:        EVM DMRS: 2.41%
+2021-02-03 16:01:54:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:12
+2021-02-03 16:01:54:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:02:07:        Check DUT connection state....
+2021-02-03 16:02:07:        DUT Connected!
+2021-02-03 16:02:07:        Get the value....
+2021-02-03 16:02:08:        EVM RMS: 2.34%
+2021-02-03 16:02:08:        EVM DMRS: 2.48%
+2021-02-03 16:02:11:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:02:25:        Check DUT connection state....
+2021-02-03 16:02:25:        DUT Connected!
+2021-02-03 16:02:25:        Get the value....
+2021-02-03 16:02:26:        EVM RMS: 2.63%
+2021-02-03 16:02:26:        EVM DMRS: 3.17%
+2021-02-03 16:02:28:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:13
+2021-02-03 16:02:28:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:02:42:        Check DUT connection state....
+2021-02-03 16:02:42:        DUT Connected!
+2021-02-03 16:02:42:        Get the value....
+2021-02-03 16:02:43:        EVM RMS: 2.16%
+2021-02-03 16:02:43:        EVM DMRS: 2.17%
+2021-02-03 16:02:45:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:02:59:        Check DUT connection state....
+2021-02-03 16:02:59:        DUT Connected!
+2021-02-03 16:02:59:        Get the value....
+2021-02-03 16:03:00:        EVM RMS: 2.22%
+2021-02-03 16:03:00:        EVM DMRS: 2.59%
+2021-02-03 16:03:03:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:15  Test Id:14
+2021-02-03 16:03:03:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:03:16:        Check DUT connection state....
+2021-02-03 16:03:16:        DUT Connected!
+2021-02-03 16:03:16:        Get the value....
+2021-02-03 16:03:17:        EVM RMS: 1.57%
+2021-02-03 16:03:17:        EVM DMRS: 1.57%
+2021-02-03 16:03:20:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:03:33:        Check DUT connection state....
+2021-02-03 16:03:33:        DUT Connected!
+2021-02-03 16:03:33:        Get the value....
+2021-02-03 16:03:34:        EVM RMS: 1.52%
+2021-02-03 16:03:34:        EVM DMRS: 2.54%
+2021-02-03 16:03:37:        OnOff NR Cell and reconnect DUT!
+2021-02-03 16:03:37:        Send AT command: AT+CFUN=0
+2021-02-03 16:03:43:        Send AT command: AT+CFUN=1
+2021-02-03 16:03:44:        Check DUT connection state....
+2021-02-03 16:03:44:        DUT Connected!
+2021-02-03 16:03:44:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:1
+2021-02-03 16:03:44:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:03:58:        Check DUT connection state....
+2021-02-03 16:03:58:        DUT Connected!
+2021-02-03 16:03:58:        Get the value....
+2021-02-03 16:03:59:        EVM RMS: 1.82%
+2021-02-03 16:03:59:        EVM DMRS: 1.54%
+2021-02-03 16:04:02:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:04:15:        Check DUT connection state....
+2021-02-03 16:04:15:        DUT Connected!
+2021-02-03 16:04:15:        Get the value....
+2021-02-03 16:04:16:        EVM RMS: 2.31%
+2021-02-03 16:04:16:        EVM DMRS: 2.16%
+2021-02-03 16:04:19:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:2
+2021-02-03 16:04:19:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:04:32:        Check DUT connection state....
+2021-02-03 16:04:32:        DUT Connected!
+2021-02-03 16:04:32:        Get the value....
+2021-02-03 16:04:33:        EVM RMS: 1.37%
+2021-02-03 16:04:33:        EVM DMRS: 1.02%
+2021-02-03 16:04:36:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:04:49:        Check DUT connection state....
+2021-02-03 16:04:50:        DUT Connected!
+2021-02-03 16:04:50:        Get the value....
+2021-02-03 16:04:51:        EVM RMS: 2.20%
+2021-02-03 16:04:51:        EVM DMRS: 2.16%
+2021-02-03 16:04:53:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:3
+2021-02-03 16:04:53:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:05:07:        Check DUT connection state....
+2021-02-03 16:05:07:        DUT Connected!
+2021-02-03 16:05:07:        Get the value....
+2021-02-03 16:05:08:        EVM RMS: 1.67%
+2021-02-03 16:05:08:        EVM DMRS: 1.38%
+2021-02-03 16:05:11:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:05:24:        Check DUT connection state....
+2021-02-03 16:05:24:        DUT Connected!
+2021-02-03 16:05:24:        Get the value....
+2021-02-03 16:05:25:        EVM RMS: 2.33%
+2021-02-03 16:05:25:        EVM DMRS: 2.29%
+2021-02-03 16:05:28:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:4
+2021-02-03 16:05:28:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:05:41:        Check DUT connection state....
+2021-02-03 16:05:41:        DUT Connected!
+2021-02-03 16:05:41:        Get the value....
+2021-02-03 16:05:42:        EVM RMS: 1.41%
+2021-02-03 16:05:42:        EVM DMRS: 1.04%
+2021-02-03 16:05:45:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:05:58:        Check DUT connection state....
+2021-02-03 16:05:58:        DUT Connected!
+2021-02-03 16:05:58:        Get the value....
+2021-02-03 16:05:59:        EVM RMS: 2.17%
+2021-02-03 16:05:59:        EVM DMRS: 2.12%
+2021-02-03 16:06:02:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:5
+2021-02-03 16:06:02:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:06:16:        Check DUT connection state....
+2021-02-03 16:06:16:        DUT Connected!
+2021-02-03 16:06:16:        Get the value....
+2021-02-03 16:06:18:        Check DUT connection state....
+2021-02-03 16:06:18:        DUT Connected!
+2021-02-03 16:06:19:        EVM RMS: -999%
+2021-02-03 16:06:19:        EVM DMRS: -999%
+2021-02-03 16:06:22:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:06:36:        Check DUT connection state....
+2021-02-03 16:06:36:        DUT Connected!
+2021-02-03 16:06:36:        Get the value....
+2021-02-03 16:06:38:        Check DUT connection state....
+2021-02-03 16:06:38:        DUT Connected!
+2021-02-03 16:06:39:        EVM RMS: -999%
+2021-02-03 16:06:39:        EVM DMRS: -999%
+2021-02-03 16:06:42:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:6
+2021-02-03 16:06:42:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:06:56:        Check DUT connection state....
+2021-02-03 16:06:56:        DUT Connected!
+2021-02-03 16:06:56:        Get the value....
+2021-02-03 16:06:58:        Check DUT connection state....
+2021-02-03 16:06:58:        DUT Connected!
+2021-02-03 16:06:59:        EVM RMS: -999%
+2021-02-03 16:06:59:        EVM DMRS: -999%
+2021-02-03 16:07:02:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:07:15:        Check DUT connection state....
+2021-02-03 16:07:15:        DUT Connected!
+2021-02-03 16:07:15:        Get the value....
+2021-02-03 16:07:18:        Check DUT connection state....
+2021-02-03 16:07:18:        DUT Connected!
+2021-02-03 16:07:19:        EVM RMS: -999%
+2021-02-03 16:07:19:        EVM DMRS: -999%
+2021-02-03 16:07:22:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:7
+2021-02-03 16:07:22:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:07:36:        Check DUT connection state....
+2021-02-03 16:07:36:        DUT Connected!
+2021-02-03 16:07:36:        Get the value....
+2021-02-03 16:07:38:        Check DUT connection state....
+2021-02-03 16:07:38:        DUT Connected!
+2021-02-03 16:07:39:        EVM RMS: -999%
+2021-02-03 16:07:39:        EVM DMRS: -999%
+2021-02-03 16:07:42:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:07:55:        Check DUT connection state....
+2021-02-03 16:07:56:        DUT Connected!
+2021-02-03 16:07:56:        Get the value....
+2021-02-03 16:07:58:        Check DUT connection state....
+2021-02-03 16:07:58:        DUT Connected!
+2021-02-03 16:07:59:        EVM RMS: -999%
+2021-02-03 16:07:59:        EVM DMRS: -999%
+2021-02-03 16:08:02:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:8
+2021-02-03 16:08:02:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:08:21:        MeasParmsSetingfor6_4_2_1  failed, Program abnormal exit! Error: Exception class for VISA I/O errors.
+
+    Please note that all values for "error_code" are negative according to the
+    specification (VPP-4.3.2, observation 3.3.2) and the NI implementation.
+
+    
+2021-02-03 16:08:21:        Tip:    Program abnormal exit!2021-02-03 16:17:27:        Instrument Initialization¡­¡­¡­¡­
+2021-02-03 16:17:27:        Initialization of CU¡­¡­¡­¡­
+2021-02-03 16:17:29:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-03 16:17:29:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-03 16:17:29:        Reset CU and reconnect DUT!
+2021-02-03 16:17:29:        NR sig parms init ---------------------------------
+2021-02-03 16:17:29:        Send AT command: AT+CFUN=0
+2021-02-03 16:17:29:        Reset CU ------------------------------------------
+2021-02-03 16:18:03:        Reset CU successed!
+2021-02-03 16:18:03:        Creat Network......
+2021-02-03 16:18:09:        Creat Network successed!
+2021-02-03 16:18:09:        Creat PLMN.....
+2021-02-03 16:18:09:        Creat PLMN successed!
+2021-02-03 16:18:09:        Creat NR Cell.......
+2021-02-03 16:18:09:        Creat NR Cell successed!
+2021-02-03 16:18:09:        Sig parms setting-------------------------------
+2021-02-03 16:18:15:        NetWork go to live......, pls wait!
+2021-02-03 16:18:43:        Sig parms setting completed!
+2021-02-03 16:18:43:        Send AT command: AT+CFUN=0
+2021-02-03 16:18:45:        Send AT command: AT+CFUN=1
+2021-02-03 16:18:45:        DUT Callsetup --------------------------------------------
+2021-02-03 16:18:47:        DUT connected!
+2021-02-03 16:18:47:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-03 16:18:48:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:1
+2021-02-03 16:18:48:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:18:59:        Check DUT connection state....
+2021-02-03 16:18:59:        DUT Connected!
+2021-02-03 16:18:59:        Get the value....
+2021-02-03 16:19:00:        EVM RMS: 2.59%
+2021-02-03 16:19:00:        EVM DMRS: 2.35%
+2021-02-03 16:19:03:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:19:14:        Check DUT connection state....
+2021-02-03 16:19:14:        DUT Connected!
+2021-02-03 16:19:14:        Get the value....
+2021-02-03 16:19:15:        EVM RMS: 3.32%
+2021-02-03 16:19:15:        EVM DMRS: 3.10%
+2021-02-03 16:19:18:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:2
+2021-02-03 16:19:18:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:19:29:        Check DUT connection state....
+2021-02-03 16:19:29:        DUT Connected!
+2021-02-03 16:19:29:        Get the value....
+2021-02-03 16:19:30:        EVM RMS: 3.00%
+2021-02-03 16:19:30:        EVM DMRS: 2.34%
+2021-02-03 16:19:33:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:19:44:        Check DUT connection state....
+2021-02-03 16:19:45:        DUT Connected!
+2021-02-03 16:19:45:        Get the value....
+2021-02-03 16:19:46:        EVM RMS: 4.42%
+2021-02-03 16:19:46:        EVM DMRS: 4.20%
+2021-02-03 16:19:49:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:3
+2021-02-03 16:19:49:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:20:00:        Check DUT connection state....
+2021-02-03 16:20:00:        DUT Connected!
+2021-02-03 16:20:00:        Get the value....
+2021-02-03 16:20:01:        EVM RMS: 3.06%
+2021-02-03 16:20:01:        EVM DMRS: 2.30%
+2021-02-03 16:20:04:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:20:15:        Check DUT connection state....
+2021-02-03 16:20:15:        DUT Connected!
+2021-02-03 16:20:15:        Get the value....
+2021-02-03 16:20:16:        EVM RMS: 3.32%
+2021-02-03 16:20:16:        EVM DMRS: 3.34%
+2021-02-03 16:20:19:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:4
+2021-02-03 16:20:19:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:20:30:        Check DUT connection state....
+2021-02-03 16:20:30:        DUT Connected!
+2021-02-03 16:20:30:        Get the value....
+2021-02-03 16:20:31:        EVM RMS: 2.97%
+2021-02-03 16:20:31:        EVM DMRS: 2.35%
+2021-02-03 16:20:34:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:20:46:        Check DUT connection state....
+2021-02-03 16:20:46:        DUT Connected!
+2021-02-03 16:20:46:        Get the value....
+2021-02-03 16:20:47:        EVM RMS: 4.47%
+2021-02-03 16:20:47:        EVM DMRS: 4.32%
+2021-02-03 16:20:50:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:5
+2021-02-03 16:20:50:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:21:01:        Check DUT connection state....
+2021-02-03 16:21:01:        DUT Connected!
+2021-02-03 16:21:01:        Get the value....
+2021-02-03 16:21:02:        EVM RMS: 3.74%
+2021-02-03 16:21:02:        EVM DMRS: 2.58%
+2021-02-03 16:21:05:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:21:16:        Check DUT connection state....
+2021-02-03 16:21:16:        DUT Connected!
+2021-02-03 16:21:16:        Get the value....
+2021-02-03 16:21:17:        EVM RMS: 3.42%
+2021-02-03 16:21:17:        EVM DMRS: 3.30%
+2021-02-03 16:21:20:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:6
+2021-02-03 16:21:20:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:21:32:        Check DUT connection state....
+2021-02-03 16:21:32:        DUT Connected!
+2021-02-03 16:21:32:        Get the value....
+2021-02-03 16:21:33:        EVM RMS: 3.53%
+2021-02-03 16:21:33:        EVM DMRS: 2.77%
+2021-02-03 16:21:36:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:21:47:        Check DUT connection state....
+2021-02-03 16:21:47:        DUT Connected!
+2021-02-03 16:21:47:        Get the value....
+2021-02-03 16:21:48:        EVM RMS: 4.38%
+2021-02-03 16:21:48:        EVM DMRS: 4.31%
+2021-02-03 16:21:51:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:7
+2021-02-03 16:21:51:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:22:02:        Check DUT connection state....
+2021-02-03 16:22:02:        DUT Connected!
+2021-02-03 16:22:02:        Get the value....
+2021-02-03 16:22:03:        EVM RMS: 3.43%
+2021-02-03 16:22:03:        EVM DMRS: 2.54%
+2021-02-03 16:22:07:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:22:18:        Check DUT connection state....
+2021-02-03 16:22:18:        DUT Connected!
+2021-02-03 16:22:18:        Get the value....
+2021-02-03 16:22:19:        EVM RMS: 4.72%
+2021-02-03 16:22:19:        EVM DMRS: 4.54%
+2021-02-03 16:22:22:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:8
+2021-02-03 16:22:22:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:22:33:        Check DUT connection state....
+2021-02-03 16:22:33:        DUT Connected!
+2021-02-03 16:22:33:        Get the value....
+2021-02-03 16:22:34:        EVM RMS: 2.97%
+2021-02-03 16:22:34:        EVM DMRS: 2.30%
+2021-02-03 16:22:37:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:22:49:        Check DUT connection state....
+2021-02-03 16:22:49:        DUT Connected!
+2021-02-03 16:22:49:        Get the value....
+2021-02-03 16:22:50:        EVM RMS: 1.96%
+2021-02-03 16:22:50:        EVM DMRS: 1.87%
+2021-02-03 16:22:53:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:9
+2021-02-03 16:22:53:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:23:04:        Check DUT connection state....
+2021-02-03 16:23:04:        DUT Connected!
+2021-02-03 16:23:04:        Get the value....
+2021-02-03 16:23:05:        EVM RMS: 3.90%
+2021-02-03 16:23:05:        EVM DMRS: 3.49%
+2021-02-03 16:23:08:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:23:20:        Check DUT connection state....
+2021-02-03 16:23:20:        DUT Connected!
+2021-02-03 16:23:20:        Get the value....
+2021-02-03 16:23:21:        EVM RMS: 3.27%
+2021-02-03 16:23:21:        EVM DMRS: 3.33%
+2021-02-03 16:23:24:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:10
+2021-02-03 16:23:24:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:23:35:        Check DUT connection state....
+2021-02-03 16:23:35:        DUT Connected!
+2021-02-03 16:23:35:        Get the value....
+2021-02-03 16:23:36:        EVM RMS: 4.37%
+2021-02-03 16:23:36:        EVM DMRS: 3.68%
+2021-02-03 16:23:39:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:23:51:        Check DUT connection state....
+2021-02-03 16:23:51:        DUT Connected!
+2021-02-03 16:23:51:        Get the value....
+2021-02-03 16:23:52:        EVM RMS: 4.51%
+2021-02-03 16:23:52:        EVM DMRS: 4.50%
+2021-02-03 16:23:55:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:11
+2021-02-03 16:23:55:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:24:06:        Check DUT connection state....
+2021-02-03 16:24:06:        DUT Connected!
+2021-02-03 16:24:06:        Get the value....
+2021-02-03 16:24:07:        EVM RMS: 3.43%
+2021-02-03 16:24:07:        EVM DMRS: 3.05%
+2021-02-03 16:24:10:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:24:22:        Check DUT connection state....
+2021-02-03 16:24:22:        DUT Connected!
+2021-02-03 16:24:22:        Get the value....
+2021-02-03 16:24:23:        EVM RMS: 3.27%
+2021-02-03 16:24:23:        EVM DMRS: 3.45%
+2021-02-03 16:24:26:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:12
+2021-02-03 16:24:26:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:24:37:        Check DUT connection state....
+2021-02-03 16:24:37:        DUT Connected!
+2021-02-03 16:24:37:        Get the value....
+2021-02-03 16:24:38:        EVM RMS: 3.58%
+2021-02-03 16:24:38:        EVM DMRS: 3.23%
+2021-02-03 16:24:42:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:24:53:        Check DUT connection state....
+2021-02-03 16:24:53:        DUT Connected!
+2021-02-03 16:24:53:        Get the value....
+2021-02-03 16:24:54:        EVM RMS: 4.62%
+2021-02-03 16:24:54:        EVM DMRS: 4.61%
+2021-02-03 16:24:57:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:13
+2021-02-03 16:24:57:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:25:09:        Check DUT connection state....
+2021-02-03 16:25:09:        DUT Connected!
+2021-02-03 16:25:09:        Get the value....
+2021-02-03 16:25:10:        EVM RMS: 3.63%
+2021-02-03 16:25:10:        EVM DMRS: 3.29%
+2021-02-03 16:25:13:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:25:24:        Check DUT connection state....
+2021-02-03 16:25:24:        DUT Connected!
+2021-02-03 16:25:24:        Get the value....
+2021-02-03 16:25:25:        EVM RMS: 4.31%
+2021-02-03 16:25:25:        EVM DMRS: 4.38%
+2021-02-03 16:25:29:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:14
+2021-02-03 16:25:29:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:25:40:        Check DUT connection state....
+2021-02-03 16:25:40:        DUT Connected!
+2021-02-03 16:25:40:        Get the value....
+2021-02-03 16:25:41:        EVM RMS: 2.79%
+2021-02-03 16:25:41:        EVM DMRS: 2.53%
+2021-02-03 16:25:44:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:25:56:        Check DUT connection state....
+2021-02-03 16:25:56:        DUT Connected!
+2021-02-03 16:25:56:        Get the value....
+2021-02-03 16:25:57:        EVM RMS: 1.94%
+2021-02-03 16:25:57:        EVM DMRS: 1.88%
+2021-02-03 16:26:00:        OnOff NR Cell and reconnect DUT!
+2021-02-03 16:26:00:        Send AT command: AT+CFUN=0
+2021-02-03 16:26:06:        Send AT command: AT+CFUN=1
+2021-02-03 16:26:07:        Check DUT connection state....
+2021-02-03 16:26:07:        DUT Connected!
+2021-02-03 16:26:07:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:1
+2021-02-03 16:26:07:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:26:18:        Check DUT connection state....
+2021-02-03 16:26:18:        DUT Connected!
+2021-02-03 16:26:18:        Get the value....
+2021-02-03 16:26:19:        EVM RMS: 2.43%
+2021-02-03 16:26:19:        EVM DMRS: 1.89%
+2021-02-03 16:26:23:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:26:34:        Check DUT connection state....
+2021-02-03 16:26:34:        DUT Connected!
+2021-02-03 16:26:34:        Get the value....
+2021-02-03 16:26:35:        EVM RMS: 3.24%
+2021-02-03 16:26:35:        EVM DMRS: 3.09%
+2021-02-03 16:26:39:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:2
+2021-02-03 16:26:39:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:26:50:        Check DUT connection state....
+2021-02-03 16:26:50:        DUT Connected!
+2021-02-03 16:26:50:        Get the value....
+2021-02-03 16:26:51:        EVM RMS: 2.69%
+2021-02-03 16:26:51:        EVM DMRS: 1.86%
+2021-02-03 16:26:54:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:27:05:        Check DUT connection state....
+2021-02-03 16:27:06:        DUT Connected!
+2021-02-03 16:27:06:        Get the value....
+2021-02-03 16:27:07:        EVM RMS: 4.52%
+2021-02-03 16:27:07:        EVM DMRS: 4.45%
+2021-02-03 16:27:10:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:3
+2021-02-03 16:27:10:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:27:21:        Check DUT connection state....
+2021-02-03 16:27:21:        DUT Connected!
+2021-02-03 16:27:21:        Get the value....
+2021-02-03 16:27:22:        EVM RMS: 2.40%
+2021-02-03 16:27:22:        EVM DMRS: 1.91%
+2021-02-03 16:27:26:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:27:37:        Check DUT connection state....
+2021-02-03 16:27:37:        DUT Connected!
+2021-02-03 16:27:37:        Get the value....
+2021-02-03 16:27:38:        EVM RMS: 3.20%
+2021-02-03 16:27:38:        EVM DMRS: 3.13%
+2021-02-03 16:27:41:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:4
+2021-02-03 16:27:41:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:27:53:        Check DUT connection state....
+2021-02-03 16:27:53:        DUT Connected!
+2021-02-03 16:27:53:        Get the value....
+2021-02-03 16:27:54:        EVM RMS: 2.58%
+2021-02-03 16:27:54:        EVM DMRS: 1.89%
+2021-02-03 16:27:57:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:28:08:        Check DUT connection state....
+2021-02-03 16:28:08:        DUT Connected!
+2021-02-03 16:28:08:        Get the value....
+2021-02-03 16:28:09:        EVM RMS: 4.57%
+2021-02-03 16:28:09:        EVM DMRS: 4.46%
+2021-02-03 16:28:13:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:5
+2021-02-03 16:28:13:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:28:24:        Check DUT connection state....
+2021-02-03 16:28:24:        DUT Connected!
+2021-02-03 16:28:24:        Get the value....
+2021-02-03 16:28:25:        EVM RMS: 3.77%
+2021-02-03 16:28:25:        EVM DMRS: 2.27%
+2021-02-03 16:28:29:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:28:40:        Check DUT connection state....
+2021-02-03 16:28:40:        DUT Connected!
+2021-02-03 16:28:40:        Get the value....
+2021-02-03 16:28:41:        EVM RMS: 3.39%
+2021-02-03 16:28:41:        EVM DMRS: 3.46%
+2021-02-03 16:28:44:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:6
+2021-02-03 16:28:44:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:28:56:        Check DUT connection state....
+2021-02-03 16:28:56:        DUT Connected!
+2021-02-03 16:28:56:        Get the value....
+2021-02-03 16:28:57:        EVM RMS: 3.08%
+2021-02-03 16:28:57:        EVM DMRS: 2.30%
+2021-02-03 16:29:00:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:29:11:        Check DUT connection state....
+2021-02-03 16:29:11:        DUT Connected!
+2021-02-03 16:29:11:        Get the value....
+2021-02-03 16:29:12:        EVM RMS: 4.43%
+2021-02-03 16:29:12:        EVM DMRS: 4.35%
+2021-02-03 16:29:16:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:7
+2021-02-03 16:29:16:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:29:27:        Check DUT connection state....
+2021-02-03 16:29:27:        DUT Connected!
+2021-02-03 16:29:27:        Get the value....
+2021-02-03 16:29:28:        EVM RMS: 2.91%
+2021-02-03 16:29:28:        EVM DMRS: 2.03%
+2021-02-03 16:29:32:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:29:43:        Check DUT connection state....
+2021-02-03 16:29:43:        DUT Connected!
+2021-02-03 16:29:43:        Get the value....
+2021-02-03 16:29:44:        EVM RMS: 4.40%
+2021-02-03 16:29:44:        EVM DMRS: 4.28%
+2021-02-03 16:29:48:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:8
+2021-02-03 16:29:48:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:29:59:        Check DUT connection state....
+2021-02-03 16:29:59:        DUT Connected!
+2021-02-03 16:29:59:        Get the value....
+2021-02-03 16:30:00:        EVM RMS: 2.26%
+2021-02-03 16:30:00:        EVM DMRS: 1.76%
+2021-02-03 16:30:03:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:30:15:        Check DUT connection state....
+2021-02-03 16:30:15:        DUT Connected!
+2021-02-03 16:30:15:        Get the value....
+2021-02-03 16:30:16:        EVM RMS: 1.92%
+2021-02-03 16:30:16:        EVM DMRS: 1.90%
+2021-02-03 16:30:19:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:9
+2021-02-03 16:30:19:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:30:31:        Check DUT connection state....
+2021-02-03 16:30:31:        DUT Connected!
+2021-02-03 16:30:31:        Get the value....
+2021-02-03 16:30:32:        EVM RMS: 3.26%
+2021-02-03 16:30:32:        EVM DMRS: 2.78%
+2021-02-03 16:30:35:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:30:46:        Check DUT connection state....
+2021-02-03 16:30:47:        DUT Connected!
+2021-02-03 16:30:47:        Get the value....
+2021-02-03 16:30:48:        EVM RMS: 3.20%
+2021-02-03 16:30:48:        EVM DMRS: 3.03%
+2021-02-03 16:30:51:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:10
+2021-02-03 16:30:51:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:31:02:        Check DUT connection state....
+2021-02-03 16:31:03:        DUT Connected!
+2021-02-03 16:31:03:        Get the value....
+2021-02-03 16:31:04:        EVM RMS: 3.24%
+2021-02-03 16:31:04:        EVM DMRS: 3.13%
+2021-02-03 16:31:07:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:31:18:        Check DUT connection state....
+2021-02-03 16:31:18:        DUT Connected!
+2021-02-03 16:31:18:        Get the value....
+2021-02-03 16:31:19:        EVM RMS: 4.30%
+2021-02-03 16:31:19:        EVM DMRS: 4.32%
+2021-02-03 16:31:23:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:11
+2021-02-03 16:31:23:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:31:34:        Check DUT connection state....
+2021-02-03 16:31:34:        DUT Connected!
+2021-02-03 16:31:34:        Get the value....
+2021-02-03 16:31:35:        EVM RMS: 2.89%
+2021-02-03 16:31:35:        EVM DMRS: 2.77%
+2021-02-03 16:31:39:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:31:50:        Check DUT connection state....
+2021-02-03 16:31:50:        DUT Connected!
+2021-02-03 16:31:50:        Get the value....
+2021-02-03 16:31:51:        EVM RMS: 2.98%
+2021-02-03 16:31:51:        EVM DMRS: 3.08%
+2021-02-03 16:31:55:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:12
+2021-02-03 16:31:55:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:32:06:        Check DUT connection state....
+2021-02-03 16:32:06:        DUT Connected!
+2021-02-03 16:32:06:        Get the value....
+2021-02-03 16:32:07:        EVM RMS: 3.15%
+2021-02-03 16:32:07:        EVM DMRS: 3.03%
+2021-02-03 16:32:11:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:32:22:        Check DUT connection state....
+2021-02-03 16:32:22:        DUT Connected!
+2021-02-03 16:32:22:        Get the value....
+2021-02-03 16:32:23:        EVM RMS: 4.42%
+2021-02-03 16:32:23:        EVM DMRS: 4.51%
+2021-02-03 16:32:27:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:13
+2021-02-03 16:32:27:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:32:38:        Check DUT connection state....
+2021-02-03 16:32:38:        DUT Connected!
+2021-02-03 16:32:38:        Get the value....
+2021-02-03 16:32:39:        EVM RMS: 3.29%
+2021-02-03 16:32:39:        EVM DMRS: 2.81%
+2021-02-03 16:32:43:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:32:54:        Check DUT connection state....
+2021-02-03 16:32:54:        DUT Connected!
+2021-02-03 16:32:54:        Get the value....
+2021-02-03 16:32:55:        EVM RMS: 4.47%
+2021-02-03 16:32:55:        EVM DMRS: 4.43%
+2021-02-03 16:32:59:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:14
+2021-02-03 16:32:59:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:33:10:        Check DUT connection state....
+2021-02-03 16:33:10:        DUT Connected!
+2021-02-03 16:33:10:        Get the value....
+2021-02-03 16:33:12:        EVM RMS: 2.09%
+2021-02-03 16:33:12:        EVM DMRS: 1.82%
+2021-02-03 16:33:15:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:33:27:        Check DUT connection state....
+2021-02-03 16:33:27:        DUT Connected!
+2021-02-03 16:33:27:        Get the value....
+2021-02-03 16:33:28:        EVM RMS: 1.89%
+2021-02-03 16:33:28:        EVM DMRS: 1.82%
+2021-02-03 16:33:32:        OnOff NR Cell and reconnect DUT!
+2021-02-03 16:33:32:        Send AT command: AT+CFUN=0
+2021-02-03 16:33:38:        Send AT command: AT+CFUN=1
+2021-02-03 16:33:39:        Check DUT connection state....
+2021-02-03 16:33:39:        DUT Connected!
+2021-02-03 16:33:39:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:1
+2021-02-03 16:33:39:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:33:50:        Check DUT connection state....
+2021-02-03 16:33:50:        DUT Connected!
+2021-02-03 16:33:50:        Get the value....
+2021-02-03 16:33:51:        EVM RMS: 2.31%
+2021-02-03 16:33:51:        EVM DMRS: 1.81%
+2021-02-03 16:33:55:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:34:06:        Check DUT connection state....
+2021-02-03 16:34:06:        DUT Connected!
+2021-02-03 16:34:06:        Get the value....
+2021-02-03 16:34:07:        EVM RMS: 2.84%
+2021-02-03 16:34:07:        EVM DMRS: 2.92%
+2021-02-03 16:34:11:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:2
+2021-02-03 16:34:11:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:34:22:        Check DUT connection state....
+2021-02-03 16:34:22:        DUT Connected!
+2021-02-03 16:34:22:        Get the value....
+2021-02-03 16:34:24:        EVM RMS: 2.16%
+2021-02-03 16:34:24:        EVM DMRS: 1.80%
+2021-02-03 16:34:27:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:34:39:        Check DUT connection state....
+2021-02-03 16:34:39:        DUT Connected!
+2021-02-03 16:34:39:        Get the value....
+2021-02-03 16:34:40:        EVM RMS: 3.54%
+2021-02-03 16:34:40:        EVM DMRS: 3.49%
+2021-02-03 16:34:44:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:3
+2021-02-03 16:34:44:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:34:55:        Check DUT connection state....
+2021-02-03 16:34:55:        DUT Connected!
+2021-02-03 16:34:55:        Get the value....
+2021-02-03 16:34:56:        EVM RMS: 2.24%
+2021-02-03 16:34:56:        EVM DMRS: 1.85%
+2021-02-03 16:35:00:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:35:11:        Check DUT connection state....
+2021-02-03 16:35:11:        DUT Connected!
+2021-02-03 16:35:11:        Get the value....
+2021-02-03 16:35:12:        EVM RMS: 2.81%
+2021-02-03 16:35:12:        EVM DMRS: 2.73%
+2021-02-03 16:35:16:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:4
+2021-02-03 16:35:16:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:35:27:        Check DUT connection state....
+2021-02-03 16:35:27:        DUT Connected!
+2021-02-03 16:35:27:        Get the value....
+2021-02-03 16:35:28:        EVM RMS: 2.36%
+2021-02-03 16:35:28:        EVM DMRS: 1.79%
+2021-02-03 16:35:32:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:35:43:        Check DUT connection state....
+2021-02-03 16:35:43:        DUT Connected!
+2021-02-03 16:35:43:        Get the value....
+2021-02-03 16:35:44:        EVM RMS: 3.78%
+2021-02-03 16:35:44:        EVM DMRS: 3.63%
+2021-02-03 16:35:48:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:5
+2021-02-03 16:35:48:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:35:59:        Check DUT connection state....
+2021-02-03 16:35:59:        DUT Connected!
+2021-02-03 16:35:59:        Get the value....
+2021-02-03 16:36:00:        EVM RMS: 2.48%
+2021-02-03 16:36:00:        EVM DMRS: 1.87%
+2021-02-03 16:36:04:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:36:15:        Check DUT connection state....
+2021-02-03 16:36:15:        DUT Connected!
+2021-02-03 16:36:15:        Get the value....
+2021-02-03 16:36:16:        EVM RMS: 2.75%
+2021-02-03 16:36:16:        EVM DMRS: 2.76%
+2021-02-03 16:36:21:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:6
+2021-02-03 16:36:21:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:36:32:        Check DUT connection state....
+2021-02-03 16:36:32:        DUT Connected!
+2021-02-03 16:36:32:        Get the value....
+2021-02-03 16:36:33:        EVM RMS: 2.97%
+2021-02-03 16:36:33:        EVM DMRS: 2.32%
+2021-02-03 16:36:37:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:36:48:        Check DUT connection state....
+2021-02-03 16:36:48:        DUT Connected!
+2021-02-03 16:36:48:        Get the value....
+2021-02-03 16:36:49:        EVM RMS: 3.52%
+2021-02-03 16:36:49:        EVM DMRS: 3.50%
+2021-02-03 16:36:53:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:7
+2021-02-03 16:36:53:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:37:04:        Check DUT connection state....
+2021-02-03 16:37:04:        DUT Connected!
+2021-02-03 16:37:04:        Get the value....
+2021-02-03 16:37:05:        EVM RMS: 2.92%
+2021-02-03 16:37:05:        EVM DMRS: 1.98%
+2021-02-03 16:37:09:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:37:20:        Check DUT connection state....
+2021-02-03 16:37:20:        DUT Connected!
+2021-02-03 16:37:20:        Get the value....
+2021-02-03 16:37:21:        EVM RMS: 3.56%
+2021-02-03 16:37:21:        EVM DMRS: 3.54%
+2021-02-03 16:37:26:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:8
+2021-02-03 16:37:26:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:37:37:        Check DUT connection state....
+2021-02-03 16:37:37:        DUT Connected!
+2021-02-03 16:37:37:        Get the value....
+2021-02-03 16:37:38:        EVM RMS: 2.07%
+2021-02-03 16:37:38:        EVM DMRS: 1.65%
+2021-02-03 16:37:42:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:37:53:        Check DUT connection state....
+2021-02-03 16:37:53:        DUT Connected!
+2021-02-03 16:37:53:        Get the value....
+2021-02-03 16:37:54:        EVM RMS: 2.06%
+2021-02-03 16:37:54:        EVM DMRS: 2.14%
+2021-02-03 16:37:58:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:9
+2021-02-03 16:37:58:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:38:09:        Check DUT connection state....
+2021-02-03 16:38:10:        DUT Connected!
+2021-02-03 16:38:10:        Get the value....
+2021-02-03 16:38:11:        EVM RMS: 3.27%
+2021-02-03 16:38:11:        EVM DMRS: 3.06%
+2021-02-03 16:38:15:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:38:26:        Check DUT connection state....
+2021-02-03 16:38:26:        DUT Connected!
+2021-02-03 16:38:26:        Get the value....
+2021-02-03 16:38:27:        EVM RMS: 2.79%
+2021-02-03 16:38:27:        EVM DMRS: 2.65%
+2021-02-03 16:38:31:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:10
+2021-02-03 16:38:31:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:38:42:        Check DUT connection state....
+2021-02-03 16:38:42:        DUT Connected!
+2021-02-03 16:38:42:        Get the value....
+2021-02-03 16:38:43:        EVM RMS: 3.17%
+2021-02-03 16:38:43:        EVM DMRS: 3.20%
+2021-02-03 16:38:47:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:38:59:        Check DUT connection state....
+2021-02-03 16:38:59:        DUT Connected!
+2021-02-03 16:38:59:        Get the value....
+2021-02-03 16:39:00:        EVM RMS: 3.54%
+2021-02-03 16:39:00:        EVM DMRS: 3.50%
+2021-02-03 16:39:04:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:11
+2021-02-03 16:39:04:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:39:15:        Check DUT connection state....
+2021-02-03 16:39:15:        DUT Connected!
+2021-02-03 16:39:15:        Get the value....
+2021-02-03 16:39:16:        EVM RMS: 3.15%
+2021-02-03 16:39:16:        EVM DMRS: 3.77%
+2021-02-03 16:39:20:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:39:32:        Check DUT connection state....
+2021-02-03 16:39:32:        DUT Connected!
+2021-02-03 16:39:32:        Get the value....
+2021-02-03 16:39:33:        EVM RMS: 2.72%
+2021-02-03 16:39:33:        EVM DMRS: 2.68%
+2021-02-03 16:39:37:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:12
+2021-02-03 16:39:37:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:39:48:        Check DUT connection state....
+2021-02-03 16:39:48:        DUT Connected!
+2021-02-03 16:39:48:        Get the value....
+2021-02-03 16:39:49:        EVM RMS: 2.86%
+2021-02-03 16:39:49:        EVM DMRS: 2.71%
+2021-02-03 16:39:53:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:40:04:        Check DUT connection state....
+2021-02-03 16:40:04:        DUT Connected!
+2021-02-03 16:40:04:        Get the value....
+2021-02-03 16:40:05:        EVM RMS: 3.48%
+2021-02-03 16:40:05:        EVM DMRS: 3.59%
+2021-02-03 16:40:10:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:13
+2021-02-03 16:40:10:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:40:21:        Check DUT connection state....
+2021-02-03 16:40:21:        DUT Connected!
+2021-02-03 16:40:21:        Get the value....
+2021-02-03 16:40:22:        EVM RMS: 2.91%
+2021-02-03 16:40:22:        EVM DMRS: 2.86%
+2021-02-03 16:40:26:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:40:37:        Check DUT connection state....
+2021-02-03 16:40:37:        DUT Connected!
+2021-02-03 16:40:37:        Get the value....
+2021-02-03 16:40:38:        EVM RMS: 3.61%
+2021-02-03 16:40:38:        EVM DMRS: 3.47%
+2021-02-03 16:40:43:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:High  SCS:30  Test Id:14
+2021-02-03 16:40:43:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:40:54:        Check DUT connection state....
+2021-02-03 16:40:54:        DUT Connected!
+2021-02-03 16:40:54:        Get the value....
+2021-02-03 16:40:55:        EVM RMS: 1.84%
+2021-02-03 16:40:55:        EVM DMRS: 1.68%
+2021-02-03 16:40:59:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:41:10:        Check DUT connection state....
+2021-02-03 16:41:10:        DUT Connected!
+2021-02-03 16:41:10:        Get the value....
+2021-02-03 16:41:11:        EVM RMS: 1.97%
+2021-02-03 16:41:11:        EVM DMRS: 2.06%
+2021-02-03 16:41:16:        OnOff NR Cell and reconnect DUT!
+2021-02-03 16:41:16:        Send AT command: AT+CFUN=0
+2021-02-03 16:41:22:        Send AT command: AT+CFUN=1
+2021-02-03 16:41:23:        Check DUT connection state....
+2021-02-03 16:41:23:        DUT Connected!
+2021-02-03 16:41:23:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:1
+2021-02-03 16:41:23:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:41:34:        Check DUT connection state....
+2021-02-03 16:41:34:        DUT Connected!
+2021-02-03 16:41:34:        Get the value....
+2021-02-03 16:41:35:        EVM RMS: 2.85%
+2021-02-03 16:41:35:        EVM DMRS: 2.48%
+2021-02-03 16:41:39:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:41:51:        Check DUT connection state....
+2021-02-03 16:41:51:        DUT Connected!
+2021-02-03 16:41:51:        Get the value....
+2021-02-03 16:41:52:        EVM RMS: 4.74%
+2021-02-03 16:41:52:        EVM DMRS: 4.58%
+2021-02-03 16:41:56:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:2
+2021-02-03 16:41:56:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:42:07:        Check DUT connection state....
+2021-02-03 16:42:08:        DUT Connected!
+2021-02-03 16:42:08:        Get the value....
+2021-02-03 16:42:09:        EVM RMS: 3.03%
+2021-02-03 16:42:09:        EVM DMRS: 2.54%
+2021-02-03 16:42:13:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:42:24:        Check DUT connection state....
+2021-02-03 16:42:24:        DUT Connected!
+2021-02-03 16:42:24:        Get the value....
+2021-02-03 16:42:25:        EVM RMS: 6.62%
+2021-02-03 16:42:25:        EVM DMRS: 6.48%
+2021-02-03 16:42:29:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:3
+2021-02-03 16:42:29:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:42:40:        Check DUT connection state....
+2021-02-03 16:42:40:        DUT Connected!
+2021-02-03 16:42:40:        Get the value....
+2021-02-03 16:42:42:        EVM RMS: 2.80%
+2021-02-03 16:42:42:        EVM DMRS: 2.45%
+2021-02-03 16:42:46:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:42:57:        Check DUT connection state....
+2021-02-03 16:42:57:        DUT Connected!
+2021-02-03 16:42:57:        Get the value....
+2021-02-03 16:42:58:        EVM RMS: 4.86%
+2021-02-03 16:42:58:        EVM DMRS: 4.73%
+2021-02-03 16:43:03:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:4
+2021-02-03 16:43:03:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:43:14:        Check DUT connection state....
+2021-02-03 16:43:14:        DUT Connected!
+2021-02-03 16:43:14:        Get the value....
+2021-02-03 16:43:15:        EVM RMS: 2.89%
+2021-02-03 16:43:15:        EVM DMRS: 2.42%
+2021-02-03 16:43:19:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:43:30:        Check DUT connection state....
+2021-02-03 16:43:30:        DUT Connected!
+2021-02-03 16:43:30:        Get the value....
+2021-02-03 16:43:31:        EVM RMS: 6.59%
+2021-02-03 16:43:31:        EVM DMRS: 6.50%
+2021-02-03 16:43:36:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:5
+2021-02-03 16:43:36:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:43:47:        Check DUT connection state....
+2021-02-03 16:43:47:        DUT Connected!
+2021-02-03 16:43:47:        Get the value....
+2021-02-03 16:43:48:        EVM RMS: 3.77%
+2021-02-03 16:43:48:        EVM DMRS: 2.94%
+2021-02-03 16:43:52:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:44:04:        Check DUT connection state....
+2021-02-03 16:44:04:        DUT Connected!
+2021-02-03 16:44:04:        Get the value....
+2021-02-03 16:44:05:        EVM RMS: 4.82%
+2021-02-03 16:44:05:        EVM DMRS: 4.70%
+2021-02-03 16:44:09:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:6
+2021-02-03 16:44:09:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:44:20:        Check DUT connection state....
+2021-02-03 16:44:20:        DUT Connected!
+2021-02-03 16:44:20:        Get the value....
+2021-02-03 16:44:21:        EVM RMS: 3.84%
+2021-02-03 16:44:21:        EVM DMRS: 3.11%
+2021-02-03 16:44:26:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:44:37:        Check DUT connection state....
+2021-02-03 16:44:37:        DUT Connected!
+2021-02-03 16:44:37:        Get the value....
+2021-02-03 16:44:38:        EVM RMS: 6.50%
+2021-02-03 16:44:38:        EVM DMRS: 6.34%
+2021-02-03 16:44:43:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:7
+2021-02-03 16:44:43:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:44:54:        Check DUT connection state....
+2021-02-03 16:44:54:        DUT Connected!
+2021-02-03 16:44:54:        Get the value....
+2021-02-03 16:44:55:        EVM RMS: 3.70%
+2021-02-03 16:44:55:        EVM DMRS: 2.85%
+2021-02-03 16:44:59:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:45:11:        Check DUT connection state....
+2021-02-03 16:45:11:        DUT Connected!
+2021-02-03 16:45:11:        Get the value....
+2021-02-03 16:45:12:        EVM RMS: 6.92%
+2021-02-03 16:45:12:        EVM DMRS: 6.71%
+2021-02-03 16:45:16:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:8
+2021-02-03 16:45:16:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:45:28:        Check DUT connection state....
+2021-02-03 16:45:28:        DUT Connected!
+2021-02-03 16:45:28:        Get the value....
+2021-02-03 16:45:29:        EVM RMS: 2.76%
+2021-02-03 16:45:29:        EVM DMRS: 2.24%
+2021-02-03 16:45:33:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:45:44:        Check DUT connection state....
+2021-02-03 16:45:44:        DUT Connected!
+2021-02-03 16:45:44:        Get the value....
+2021-02-03 16:45:45:        EVM RMS: 2.44%
+2021-02-03 16:45:45:        EVM DMRS: 2.35%
+2021-02-03 16:45:50:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:9
+2021-02-03 16:45:50:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:46:01:        Check DUT connection state....
+2021-02-03 16:46:01:        DUT Connected!
+2021-02-03 16:46:01:        Get the value....
+2021-02-03 16:46:02:        EVM RMS: 3.81%
+2021-02-03 16:46:02:        EVM DMRS: 3.39%
+2021-02-03 16:46:07:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:46:18:        Check DUT connection state....
+2021-02-03 16:46:18:        DUT Connected!
+2021-02-03 16:46:18:        Get the value....
+2021-02-03 16:46:19:        EVM RMS: 4.69%
+2021-02-03 16:46:19:        EVM DMRS: 4.70%
+2021-02-03 16:46:24:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:10
+2021-02-03 16:46:24:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:46:35:        Check DUT connection state....
+2021-02-03 16:46:35:        DUT Connected!
+2021-02-03 16:46:35:        Get the value....
+2021-02-03 16:46:36:        EVM RMS: 4.19%
+2021-02-03 16:46:36:        EVM DMRS: 4.00%
+2021-02-03 16:46:40:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:46:52:        Check DUT connection state....
+2021-02-03 16:46:52:        DUT Connected!
+2021-02-03 16:46:52:        Get the value....
+2021-02-03 16:46:54:        Check DUT connection state....
+2021-02-03 16:46:54:        DUT Connected!
+2021-02-03 16:46:55:        EVM RMS: 6.86%
+2021-02-03 16:46:55:        EVM DMRS: 6.88%
+2021-02-03 16:46:59:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:11
+2021-02-03 16:46:59:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:47:11:        Check DUT connection state....
+2021-02-03 16:47:11:        DUT Connected!
+2021-02-03 16:47:11:        Get the value....
+2021-02-03 16:47:12:        EVM RMS: 3.92%
+2021-02-03 16:47:12:        EVM DMRS: 3.69%
+2021-02-03 16:47:16:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:47:28:        Check DUT connection state....
+2021-02-03 16:47:28:        DUT Connected!
+2021-02-03 16:47:28:        Get the value....
+2021-02-03 16:47:29:        EVM RMS: 4.74%
+2021-02-03 16:47:29:        EVM DMRS: 4.76%
+2021-02-03 16:47:33:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:12
+2021-02-03 16:47:33:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:47:44:        Check DUT connection state....
+2021-02-03 16:47:44:        DUT Connected!
+2021-02-03 16:47:44:        Get the value....
+2021-02-03 16:47:45:        EVM RMS: 3.87%
+2021-02-03 16:47:45:        EVM DMRS: 3.63%
+2021-02-03 16:47:50:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:48:01:        Check DUT connection state....
+2021-02-03 16:48:01:        DUT Connected!
+2021-02-03 16:48:01:        Get the value....
+2021-02-03 16:48:02:        EVM RMS: 6.41%
+2021-02-03 16:48:02:        EVM DMRS: 6.51%
+2021-02-03 16:48:07:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:13
+2021-02-03 16:48:07:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:48:18:        Check DUT connection state....
+2021-02-03 16:48:18:        DUT Connected!
+2021-02-03 16:48:18:        Get the value....
+2021-02-03 16:48:19:        EVM RMS: 3.75%
+2021-02-03 16:48:19:        EVM DMRS: 3.56%
+2021-02-03 16:48:24:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:48:35:        Check DUT connection state....
+2021-02-03 16:48:35:        DUT Connected!
+2021-02-03 16:48:35:        Get the value....
+2021-02-03 16:48:36:        EVM RMS: 6.33%
+2021-02-03 16:48:36:        EVM DMRS: 6.38%
+2021-02-03 16:48:41:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Low  SCS:30  Test Id:14
+2021-02-03 16:48:41:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:48:52:        Check DUT connection state....
+2021-02-03 16:48:52:        DUT Connected!
+2021-02-03 16:48:52:        Get the value....
+2021-02-03 16:48:53:        EVM RMS: 2.55%
+2021-02-03 16:48:53:        EVM DMRS: 2.18%
+2021-02-03 16:48:58:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:49:09:        Check DUT connection state....
+2021-02-03 16:49:09:        DUT Connected!
+2021-02-03 16:49:09:        Get the value....
+2021-02-03 16:49:10:        EVM RMS: 2.49%
+2021-02-03 16:49:10:        EVM DMRS: 2.49%
+2021-02-03 16:49:15:        OnOff NR Cell and reconnect DUT!
+2021-02-03 16:49:15:        Send AT command: AT+CFUN=0
+2021-02-03 16:49:21:        Send AT command: AT+CFUN=1
+2021-02-03 16:49:22:        Check DUT connection state....
+2021-02-03 16:49:22:        DUT Connected!
+2021-02-03 16:49:22:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:1
+2021-02-03 16:49:22:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:49:33:        Check DUT connection state....
+2021-02-03 16:49:33:        DUT Connected!
+2021-02-03 16:49:33:        Get the value....
+2021-02-03 16:49:34:        EVM RMS: 2.71%
+2021-02-03 16:49:34:        EVM DMRS: 2.10%
+2021-02-03 16:49:39:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:49:50:        Check DUT connection state....
+2021-02-03 16:49:50:        DUT Connected!
+2021-02-03 16:49:50:        Get the value....
+2021-02-03 16:49:51:        EVM RMS: 4.95%
+2021-02-03 16:49:51:        EVM DMRS: 4.84%
+2021-02-03 16:49:56:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:2
+2021-02-03 16:49:56:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:50:07:        Check DUT connection state....
+2021-02-03 16:50:07:        DUT Connected!
+2021-02-03 16:50:07:        Get the value....
+2021-02-03 16:50:08:        EVM RMS: 2.69%
+2021-02-03 16:50:08:        EVM DMRS: 2.12%
+2021-02-03 16:50:13:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:50:24:        Check DUT connection state....
+2021-02-03 16:50:25:        DUT Connected!
+2021-02-03 16:50:25:        Get the value....
+2021-02-03 16:50:26:        EVM RMS: 6.86%
+2021-02-03 16:50:26:        EVM DMRS: 6.75%
+2021-02-03 16:50:30:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:3
+2021-02-03 16:50:30:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:50:41:        Check DUT connection state....
+2021-02-03 16:50:41:        DUT Connected!
+2021-02-03 16:50:41:        Get the value....
+2021-02-03 16:50:42:        EVM RMS: 2.63%
+2021-02-03 16:50:42:        EVM DMRS: 2.05%
+2021-02-03 16:50:47:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:50:58:        Check DUT connection state....
+2021-02-03 16:50:58:        DUT Connected!
+2021-02-03 16:50:58:        Get the value....
+2021-02-03 16:50:59:        EVM RMS: 4.97%
+2021-02-03 16:50:59:        EVM DMRS: 4.82%
+2021-02-03 16:51:04:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:4
+2021-02-03 16:51:04:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:51:15:        Check DUT connection state....
+2021-02-03 16:51:16:        DUT Connected!
+2021-02-03 16:51:16:        Get the value....
+2021-02-03 16:51:17:        EVM RMS: 2.50%
+2021-02-03 16:51:17:        EVM DMRS: 2.06%
+2021-02-03 16:51:21:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:51:33:        Check DUT connection state....
+2021-02-03 16:51:33:        DUT Connected!
+2021-02-03 16:51:33:        Get the value....
+2021-02-03 16:51:34:        EVM RMS: 6.96%
+2021-02-03 16:51:34:        EVM DMRS: 6.80%
+2021-02-03 16:51:38:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:5
+2021-02-03 16:51:38:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:51:49:        Check DUT connection state....
+2021-02-03 16:51:49:        DUT Connected!
+2021-02-03 16:51:49:        Get the value....
+2021-02-03 16:51:50:        EVM RMS: 3.25%
+2021-02-03 16:51:50:        EVM DMRS: 2.43%
+2021-02-03 16:51:55:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:52:06:        Check DUT connection state....
+2021-02-03 16:52:06:        DUT Connected!
+2021-02-03 16:52:06:        Get the value....
+2021-02-03 16:52:07:        EVM RMS: 4.89%
+2021-02-03 16:52:07:        EVM DMRS: 4.77%
+2021-02-03 16:52:12:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:6
+2021-02-03 16:52:12:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:52:23:        Check DUT connection state....
+2021-02-03 16:52:24:        DUT Connected!
+2021-02-03 16:52:24:        Get the value....
+2021-02-03 16:52:25:        EVM RMS: 3.56%
+2021-02-03 16:52:25:        EVM DMRS: 2.76%
+2021-02-03 16:52:29:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:52:41:        Check DUT connection state....
+2021-02-03 16:52:41:        DUT Connected!
+2021-02-03 16:52:41:        Get the value....
+2021-02-03 16:52:42:        EVM RMS: 6.29%
+2021-02-03 16:52:42:        EVM DMRS: 6.14%
+2021-02-03 16:52:47:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:7
+2021-02-03 16:52:47:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:52:58:        Check DUT connection state....
+2021-02-03 16:52:58:        DUT Connected!
+2021-02-03 16:52:58:        Get the value....
+2021-02-03 16:52:59:        EVM RMS: 3.21%
+2021-02-03 16:52:59:        EVM DMRS: 2.46%
+2021-02-03 16:53:04:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:53:15:        Check DUT connection state....
+2021-02-03 16:53:15:        DUT Connected!
+2021-02-03 16:53:15:        Get the value....
+2021-02-03 16:53:16:        EVM RMS: 6.47%
+2021-02-03 16:53:16:        EVM DMRS: 6.30%
+2021-02-03 16:53:21:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:8
+2021-02-03 16:53:21:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:53:32:        Check DUT connection state....
+2021-02-03 16:53:32:        DUT Connected!
+2021-02-03 16:53:32:        Get the value....
+2021-02-03 16:53:33:        EVM RMS: 2.25%
+2021-02-03 16:53:33:        EVM DMRS: 1.87%
+2021-02-03 16:53:38:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:53:49:        Check DUT connection state....
+2021-02-03 16:53:49:        DUT Connected!
+2021-02-03 16:53:49:        Get the value....
+2021-02-03 16:53:50:        EVM RMS: 2.52%
+2021-02-03 16:53:50:        EVM DMRS: 2.48%
+2021-02-03 16:53:56:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:9
+2021-02-03 16:53:56:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:54:07:        Check DUT connection state....
+2021-02-03 16:54:07:        DUT Connected!
+2021-02-03 16:54:07:        Get the value....
+2021-02-03 16:54:08:        EVM RMS: 3.40%
+2021-02-03 16:54:08:        EVM DMRS: 3.15%
+2021-02-03 16:54:13:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:54:24:        Check DUT connection state....
+2021-02-03 16:54:24:        DUT Connected!
+2021-02-03 16:54:24:        Get the value....
+2021-02-03 16:54:25:        EVM RMS: 4.83%
+2021-02-03 16:54:25:        EVM DMRS: 4.80%
+2021-02-03 16:54:30:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:10
+2021-02-03 16:54:30:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:54:41:        Check DUT connection state....
+2021-02-03 16:54:41:        DUT Connected!
+2021-02-03 16:54:41:        Get the value....
+2021-02-03 16:54:42:        EVM RMS: 3.64%
+2021-02-03 16:54:42:        EVM DMRS: 3.46%
+2021-02-03 16:54:47:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:54:58:        Check DUT connection state....
+2021-02-03 16:54:58:        DUT Connected!
+2021-02-03 16:54:58:        Get the value....
+2021-02-03 16:54:59:        EVM RMS: 6.97%
+2021-02-03 16:54:59:        EVM DMRS: 6.90%
+2021-02-03 16:55:05:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:11
+2021-02-03 16:55:05:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:55:16:        Check DUT connection state....
+2021-02-03 16:55:16:        DUT Connected!
+2021-02-03 16:55:16:        Get the value....
+2021-02-03 16:55:17:        EVM RMS: 3.37%
+2021-02-03 16:55:17:        EVM DMRS: 3.12%
+2021-02-03 16:55:22:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:55:33:        Check DUT connection state....
+2021-02-03 16:55:33:        DUT Connected!
+2021-02-03 16:55:33:        Get the value....
+2021-02-03 16:55:34:        EVM RMS: 4.91%
+2021-02-03 16:55:34:        EVM DMRS: 4.91%
+2021-02-03 16:55:39:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:12
+2021-02-03 16:55:39:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:55:50:        Check DUT connection state....
+2021-02-03 16:55:50:        DUT Connected!
+2021-02-03 16:55:50:        Get the value....
+2021-02-03 16:55:51:        EVM RMS: 3.51%
+2021-02-03 16:55:51:        EVM DMRS: 3.45%
+2021-02-03 16:55:56:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:56:07:        Check DUT connection state....
+2021-02-03 16:56:07:        DUT Connected!
+2021-02-03 16:56:07:        Get the value....
+2021-02-03 16:56:08:        EVM RMS: 6.77%
+2021-02-03 16:56:08:        EVM DMRS: 6.78%
+2021-02-03 16:56:14:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:13
+2021-02-03 16:56:14:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:56:25:        Check DUT connection state....
+2021-02-03 16:56:25:        DUT Connected!
+2021-02-03 16:56:25:        Get the value....
+2021-02-03 16:56:26:        EVM RMS: 3.28%
+2021-02-03 16:56:26:        EVM DMRS: 3.09%
+2021-02-03 16:56:31:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:56:42:        Check DUT connection state....
+2021-02-03 16:56:42:        DUT Connected!
+2021-02-03 16:56:42:        Get the value....
+2021-02-03 16:56:44:        Check DUT connection state....
+2021-02-03 16:56:44:        DUT Connected!
+2021-02-03 16:56:45:        EVM RMS: 6.59%
+2021-02-03 16:56:45:        EVM DMRS: 6.58%
+2021-02-03 16:56:51:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:Mid  SCS:30  Test Id:14
+2021-02-03 16:56:51:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:57:02:        Check DUT connection state....
+2021-02-03 16:57:02:        DUT Connected!
+2021-02-03 16:57:02:        Get the value....
+2021-02-03 16:57:03:        EVM RMS: 2.11%
+2021-02-03 16:57:03:        EVM DMRS: 1.77%
+2021-02-03 16:57:08:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:57:19:        Check DUT connection state....
+2021-02-03 16:57:19:        DUT Connected!
+2021-02-03 16:57:19:        Get the value....
+2021-02-03 16:57:20:        EVM RMS: 2.38%
+2021-02-03 16:57:20:        EVM DMRS: 2.31%
+2021-02-03 16:57:25:        OnOff NR Cell and reconnect DUT!
+2021-02-03 16:57:25:        Send AT command: AT+CFUN=0
+2021-02-03 16:57:31:        Send AT command: AT+CFUN=1
+2021-02-03 16:57:32:        Check DUT connection state....
+2021-02-03 16:57:32:        DUT Connected!
+2021-02-03 16:57:32:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:1
+2021-02-03 16:57:32:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:57:43:        Check DUT connection state....
+2021-02-03 16:57:43:        DUT Connected!
+2021-02-03 16:57:43:        Get the value....
+2021-02-03 16:57:44:        EVM RMS: 2.54%
+2021-02-03 16:57:44:        EVM DMRS: 1.87%
+2021-02-03 16:57:49:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:58:01:        Check DUT connection state....
+2021-02-03 16:58:01:        DUT Connected!
+2021-02-03 16:58:01:        Get the value....
+2021-02-03 16:58:02:        EVM RMS: 4.07%
+2021-02-03 16:58:02:        EVM DMRS: 4.01%
+2021-02-03 16:58:07:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:2
+2021-02-03 16:58:07:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:58:18:        Check DUT connection state....
+2021-02-03 16:58:18:        DUT Connected!
+2021-02-03 16:58:18:        Get the value....
+2021-02-03 16:58:19:        EVM RMS: 2.37%
+2021-02-03 16:58:19:        EVM DMRS: 1.95%
+2021-02-03 16:58:24:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:58:36:        Check DUT connection state....
+2021-02-03 16:58:36:        DUT Connected!
+2021-02-03 16:58:36:        Get the value....
+2021-02-03 16:58:37:        EVM RMS: 5.60%
+2021-02-03 16:58:37:        EVM DMRS: 5.42%
+2021-02-03 16:58:42:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:3
+2021-02-03 16:58:42:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:58:53:        Check DUT connection state....
+2021-02-03 16:58:53:        DUT Connected!
+2021-02-03 16:58:53:        Get the value....
+2021-02-03 16:58:54:        EVM RMS: 2.48%
+2021-02-03 16:58:54:        EVM DMRS: 1.91%
+2021-02-03 16:58:59:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:59:11:        Check DUT connection state....
+2021-02-03 16:59:11:        DUT Connected!
+2021-02-03 16:59:11:        Get the value....
+2021-02-03 16:59:12:        EVM RMS: 4.00%
+2021-02-03 16:59:12:        EVM DMRS: 3.96%
+2021-02-03 16:59:17:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:4
+2021-02-03 16:59:17:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:59:28:        Check DUT connection state....
+2021-02-03 16:59:28:        DUT Connected!
+2021-02-03 16:59:28:        Get the value....
+2021-02-03 16:59:29:        EVM RMS: 2.33%
+2021-02-03 16:59:29:        EVM DMRS: 1.87%
+2021-02-03 16:59:35:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 16:59:46:        Check DUT connection state....
+2021-02-03 16:59:46:        DUT Connected!
+2021-02-03 16:59:46:        Get the value....
+2021-02-03 16:59:47:        EVM RMS: 6.01%
+2021-02-03 16:59:47:        EVM DMRS: 5.90%
+2021-02-03 16:59:52:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:5
+2021-02-03 16:59:52:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:00:03:        Check DUT connection state....
+2021-02-03 17:00:03:        DUT Connected!
+2021-02-03 17:00:03:        Get the value....
+2021-02-03 17:00:05:        EVM RMS: 3.17%
+2021-02-03 17:00:05:        EVM DMRS: 2.25%
+2021-02-03 17:00:09:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:00:21:        Check DUT connection state....
+2021-02-03 17:00:21:        DUT Connected!
+2021-02-03 17:00:21:        Get the value....
+2021-02-03 17:00:22:        EVM RMS: 4.10%
+2021-02-03 17:00:22:        EVM DMRS: 4.01%
+2021-02-03 17:00:27:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:6
+2021-02-03 17:00:27:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:00:38:        Check DUT connection state....
+2021-02-03 17:00:38:        DUT Connected!
+2021-02-03 17:00:38:        Get the value....
+2021-02-03 17:00:39:        EVM RMS: 3.24%
+2021-02-03 17:00:39:        EVM DMRS: 2.53%
+2021-02-03 17:00:44:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:00:56:        Check DUT connection state....
+2021-02-03 17:00:56:        DUT Connected!
+2021-02-03 17:00:56:        Get the value....
+2021-02-03 17:00:57:        EVM RMS: 5.61%
+2021-02-03 17:00:57:        EVM DMRS: 5.54%
+2021-02-03 17:01:02:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:7
+2021-02-03 17:01:02:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:01:13:        Check DUT connection state....
+2021-02-03 17:01:13:        DUT Connected!
+2021-02-03 17:01:13:        Get the value....
+2021-02-03 17:01:14:        EVM RMS: 3.14%
+2021-02-03 17:01:14:        EVM DMRS: 2.35%
+2021-02-03 17:01:20:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:01:31:        Check DUT connection state....
+2021-02-03 17:01:31:        DUT Connected!
+2021-02-03 17:01:31:        Get the value....
+2021-02-03 17:01:32:        EVM RMS: 5.74%
+2021-02-03 17:01:32:        EVM DMRS: 5.60%
+2021-02-03 17:01:37:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:8
+2021-02-03 17:01:37:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:01:48:        Check DUT connection state....
+2021-02-03 17:01:48:        DUT Connected!
+2021-02-03 17:01:48:        Get the value....
+2021-02-03 17:01:49:        EVM RMS: 2.38%
+2021-02-03 17:01:49:        EVM DMRS: 1.91%
+2021-02-03 17:01:55:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:02:06:        Check DUT connection state....
+2021-02-03 17:02:06:        DUT Connected!
+2021-02-03 17:02:06:        Get the value....
+2021-02-03 17:02:07:        EVM RMS: 2.41%
+2021-02-03 17:02:07:        EVM DMRS: 2.36%
+2021-02-03 17:02:13:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:9
+2021-02-03 17:02:13:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:02:24:        Check DUT connection state....
+2021-02-03 17:02:24:        DUT Connected!
+2021-02-03 17:02:24:        Get the value....
+2021-02-03 17:02:25:        EVM RMS: 4.10%
+2021-02-03 17:02:25:        EVM DMRS: 4.09%
+2021-02-03 17:02:30:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:02:41:        Check DUT connection state....
+2021-02-03 17:02:42:        DUT Connected!
+2021-02-03 17:02:42:        Get the value....
+2021-02-03 17:02:43:        EVM RMS: 4.15%
+2021-02-03 17:02:43:        EVM DMRS: 4.07%
+2021-02-03 17:02:48:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:10
+2021-02-03 17:02:48:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:02:59:        Check DUT connection state....
+2021-02-03 17:02:59:        DUT Connected!
+2021-02-03 17:02:59:        Get the value....
+2021-02-03 17:03:00:        EVM RMS: 3.06%
+2021-02-03 17:03:00:        EVM DMRS: 3.09%
+2021-02-03 17:03:05:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:03:17:        Check DUT connection state....
+2021-02-03 17:03:17:        DUT Connected!
+2021-02-03 17:03:17:        Get the value....
+2021-02-03 17:03:18:        EVM RMS: 5.96%
+2021-02-03 17:03:18:        EVM DMRS: 5.97%
+2021-02-03 17:03:23:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:11
+2021-02-03 17:03:23:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:03:34:        Check DUT connection state....
+2021-02-03 17:03:34:        DUT Connected!
+2021-02-03 17:03:34:        Get the value....
+2021-02-03 17:03:35:        EVM RMS: 3.05%
+2021-02-03 17:03:35:        EVM DMRS: 3.16%
+2021-02-03 17:03:41:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:03:52:        Check DUT connection state....
+2021-02-03 17:03:52:        DUT Connected!
+2021-02-03 17:03:52:        Get the value....
+2021-02-03 17:03:53:        EVM RMS: 4.09%
+2021-02-03 17:03:53:        EVM DMRS: 4.10%
+2021-02-03 17:03:59:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:12
+2021-02-03 17:03:59:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:04:10:        Check DUT connection state....
+2021-02-03 17:04:10:        DUT Connected!
+2021-02-03 17:04:10:        Get the value....
+2021-02-03 17:04:11:        EVM RMS: 3.06%
+2021-02-03 17:04:11:        EVM DMRS: 3.19%
+2021-02-03 17:04:17:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:04:28:        Check DUT connection state....
+2021-02-03 17:04:28:        DUT Connected!
+2021-02-03 17:04:28:        Get the value....
+2021-02-03 17:04:29:        EVM RMS: 5.57%
+2021-02-03 17:04:29:        EVM DMRS: 5.58%
+2021-02-03 17:04:35:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:13
+2021-02-03 17:04:35:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:04:46:        Check DUT connection state....
+2021-02-03 17:04:46:        DUT Connected!
+2021-02-03 17:04:46:        Get the value....
+2021-02-03 17:04:47:        EVM RMS: 3.16%
+2021-02-03 17:04:47:        EVM DMRS: 3.15%
+2021-02-03 17:04:52:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:05:03:        Check DUT connection state....
+2021-02-03 17:05:03:        DUT Connected!
+2021-02-03 17:05:03:        Get the value....
+2021-02-03 17:05:04:        EVM RMS: 5.79%
+2021-02-03 17:05:04:        EVM DMRS: 5.79%
+2021-02-03 17:05:10:        n78_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:High  Channel:High  SCS:30  Test Id:14
+2021-02-03 17:05:10:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:05:21:        Check DUT connection state....
+2021-02-03 17:05:21:        DUT Connected!
+2021-02-03 17:05:21:        Get the value....
+2021-02-03 17:05:22:        EVM RMS: 2.44%
+2021-02-03 17:05:22:        EVM DMRS: 2.43%
+2021-02-03 17:05:28:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:05:39:        Check DUT connection state....
+2021-02-03 17:05:39:        DUT Connected!
+2021-02-03 17:05:39:        Get the value....
+2021-02-03 17:05:40:        EVM RMS: 2.43%
+2021-02-03 17:05:40:        EVM DMRS: 2.39%2021-02-03 17:07:04:        Instrument Initialization¡­¡­¡­¡­
+2021-02-03 17:07:04:        Initialization of CU¡­¡­¡­¡­
+2021-02-03 17:07:06:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-03 17:07:06:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-03 17:07:06:        Reset CU and reconnect DUT!
+2021-02-03 17:07:06:        NR sig parms init ---------------------------------
+2021-02-03 17:07:06:        Send AT command: AT+CFUN=0
+2021-02-03 17:07:06:        Reset CU ------------------------------------------
+2021-02-03 17:07:24:        Reset CU successed!
+2021-02-03 17:07:24:        Creat Network......
+2021-02-03 17:07:30:        Creat Network successed!
+2021-02-03 17:07:30:        Creat PLMN.....
+2021-02-03 17:07:30:        Creat PLMN successed!
+2021-02-03 17:07:30:        Creat NR Cell.......
+2021-02-03 17:07:30:        Creat NR Cell successed!
+2021-02-03 17:07:30:        Sig parms setting-------------------------------
+2021-02-03 17:07:36:        NetWork go to live......, pls wait!
+2021-02-03 17:08:03:        Sig parms setting completed!
+2021-02-03 17:08:03:        Send AT command: AT+CFUN=0
+2021-02-03 17:08:05:        Send AT command: AT+CFUN=1
+2021-02-03 17:08:05:        DUT Callsetup --------------------------------------------
+2021-02-03 17:08:08:        DUT connected!
+2021-02-03 17:08:08:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-03 17:08:08:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:1
+2021-02-03 17:08:08:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:08:19:        Check DUT connection state....
+2021-02-03 17:08:19:        DUT Connected!
+2021-02-03 17:08:19:        Get the value....
+2021-02-03 17:08:20:        EVM RMS: 2.14%
+2021-02-03 17:08:20:        EVM DMRS: 1.69%
+2021-02-03 17:08:26:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:08:37:        Check DUT connection state....
+2021-02-03 17:08:37:        DUT Connected!
+2021-02-03 17:08:37:        Get the value....
+2021-02-03 17:08:38:        EVM RMS: 3.97%
+2021-02-03 17:08:38:        EVM DMRS: 3.78%
+2021-02-03 17:08:43:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:2
+2021-02-03 17:08:43:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:08:55:        Check DUT connection state....
+2021-02-03 17:08:55:        DUT Connected!
+2021-02-03 17:08:55:        Get the value....
+2021-02-03 17:08:56:        EVM RMS: 2.62%
+2021-02-03 17:08:56:        EVM DMRS: 1.84%
+2021-02-03 17:09:01:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:09:12:        Check DUT connection state....
+2021-02-03 17:09:12:        DUT Connected!
+2021-02-03 17:09:12:        Get the value....
+2021-02-03 17:09:13:        EVM RMS: 5.47%
+2021-02-03 17:09:13:        EVM DMRS: 5.31%
+2021-02-03 17:09:19:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:3
+2021-02-03 17:09:19:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:09:30:        Check DUT connection state....
+2021-02-03 17:09:30:        DUT Connected!
+2021-02-03 17:09:30:        Get the value....
+2021-02-03 17:09:31:        EVM RMS: 2.37%
+2021-02-03 17:09:31:        EVM DMRS: 1.83%
+2021-02-03 17:09:37:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:09:48:        Check DUT connection state....
+2021-02-03 17:09:48:        DUT Connected!
+2021-02-03 17:09:48:        Get the value....
+2021-02-03 17:09:49:        EVM RMS: 3.96%
+2021-02-03 17:09:49:        EVM DMRS: 3.76%
+2021-02-03 17:09:55:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:4
+2021-02-03 17:09:55:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:10:06:        Check DUT connection state....
+2021-02-03 17:10:06:        DUT Connected!
+2021-02-03 17:10:06:        Get the value....
+2021-02-03 17:10:07:        EVM RMS: 2.59%
+2021-02-03 17:10:07:        EVM DMRS: 1.91%
+2021-02-03 17:10:12:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:10:23:        Check DUT connection state....
+2021-02-03 17:10:23:        DUT Connected!
+2021-02-03 17:10:23:        Get the value....
+2021-02-03 17:10:24:        EVM RMS: 5.43%
+2021-02-03 17:10:24:        EVM DMRS: 5.32%
+2021-02-03 17:10:30:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:5
+2021-02-03 17:10:30:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:10:41:        Check DUT connection state....
+2021-02-03 17:10:41:        DUT Connected!
+2021-02-03 17:10:41:        Get the value....
+2021-02-03 17:10:42:        EVM RMS: 3.27%
+2021-02-03 17:10:42:        EVM DMRS: 2.39%
+2021-02-03 17:10:48:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:10:59:        Check DUT connection state....
+2021-02-03 17:10:59:        DUT Connected!
+2021-02-03 17:10:59:        Get the value....
+2021-02-03 17:11:00:        EVM RMS: 4.00%
+2021-02-03 17:11:00:        EVM DMRS: 3.86%
+2021-02-03 17:11:06:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:6
+2021-02-03 17:11:06:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:11:17:        Check DUT connection state....
+2021-02-03 17:11:17:        DUT Connected!
+2021-02-03 17:11:17:        Get the value....
+2021-02-03 17:11:18:        EVM RMS: 3.62%
+2021-02-03 17:11:18:        EVM DMRS: 2.82%
+2021-02-03 17:11:23:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:11:35:        Check DUT connection state....
+2021-02-03 17:11:35:        DUT Connected!
+2021-02-03 17:11:35:        Get the value....
+2021-02-03 17:11:36:        EVM RMS: 5.93%
+2021-02-03 17:11:36:        EVM DMRS: 5.75%
+2021-02-03 17:11:41:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:7
+2021-02-03 17:11:41:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:11:52:        Check DUT connection state....
+2021-02-03 17:11:52:        DUT Connected!
+2021-02-03 17:11:52:        Get the value....
+2021-02-03 17:11:53:        EVM RMS: 3.22%
+2021-02-03 17:11:53:        EVM DMRS: 2.38%
+2021-02-03 17:11:59:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:12:10:        Check DUT connection state....
+2021-02-03 17:12:10:        DUT Connected!
+2021-02-03 17:12:10:        Get the value....
+2021-02-03 17:12:11:        EVM RMS: 5.63%
+2021-02-03 17:12:11:        EVM DMRS: 5.45%
+2021-02-03 17:12:17:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:8
+2021-02-03 17:12:17:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:12:28:        Check DUT connection state....
+2021-02-03 17:12:28:        DUT Connected!
+2021-02-03 17:12:28:        Get the value....
+2021-02-03 17:12:29:        EVM RMS: 2.29%
+2021-02-03 17:12:29:        EVM DMRS: 1.71%
+2021-02-03 17:12:35:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:12:46:        Check DUT connection state....
+2021-02-03 17:12:46:        DUT Connected!
+2021-02-03 17:12:46:        Get the value....
+2021-02-03 17:12:47:        EVM RMS: 2.15%
+2021-02-03 17:12:47:        EVM DMRS: 2.04%
+2021-02-03 17:12:53:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:9
+2021-02-03 17:12:53:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:13:04:        Check DUT connection state....
+2021-02-03 17:13:04:        DUT Connected!
+2021-02-03 17:13:04:        Get the value....
+2021-02-03 17:13:05:        EVM RMS: 3.01%
+2021-02-03 17:13:05:        EVM DMRS: 2.87%
+2021-02-03 17:13:11:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:13:22:        Check DUT connection state....
+2021-02-03 17:13:22:        DUT Connected!
+2021-02-03 17:13:22:        Get the value....
+2021-02-03 17:13:23:        EVM RMS: 4.31%
+2021-02-03 17:13:23:        EVM DMRS: 4.18%
+2021-02-03 17:13:29:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:10
+2021-02-03 17:13:29:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:13:40:        Check DUT connection state....
+2021-02-03 17:13:40:        DUT Connected!
+2021-02-03 17:13:40:        Get the value....
+2021-02-03 17:13:41:        EVM RMS: 3.42%
+2021-02-03 17:13:41:        EVM DMRS: 3.70%
+2021-02-03 17:13:47:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:13:58:        Check DUT connection state....
+2021-02-03 17:13:58:        DUT Connected!
+2021-02-03 17:13:58:        Get the value....
+2021-02-03 17:13:59:        EVM RMS: 5.80%
+2021-02-03 17:13:59:        EVM DMRS: 5.77%
+2021-02-03 17:14:05:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:11
+2021-02-03 17:14:05:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:14:16:        Check DUT connection state....
+2021-02-03 17:14:16:        DUT Connected!
+2021-02-03 17:14:16:        Get the value....
+2021-02-03 17:14:17:        EVM RMS: 3.15%
+2021-02-03 17:14:17:        EVM DMRS: 3.10%
+2021-02-03 17:14:23:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:14:34:        Check DUT connection state....
+2021-02-03 17:14:34:        DUT Connected!
+2021-02-03 17:14:34:        Get the value....
+2021-02-03 17:14:35:        EVM RMS: 4.31%
+2021-02-03 17:14:35:        EVM DMRS: 4.34%
+2021-02-03 17:14:41:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:12
+2021-02-03 17:14:41:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:14:52:        Check DUT connection state....
+2021-02-03 17:14:52:        DUT Connected!
+2021-02-03 17:14:52:        Get the value....
+2021-02-03 17:14:53:        EVM RMS: 3.21%
+2021-02-03 17:14:53:        EVM DMRS: 3.10%
+2021-02-03 17:14:59:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:15:10:        Check DUT connection state....
+2021-02-03 17:15:10:        DUT Connected!
+2021-02-03 17:15:10:        Get the value....
+2021-02-03 17:15:11:        EVM RMS: 5.86%
+2021-02-03 17:15:11:        EVM DMRS: 5.85%
+2021-02-03 17:15:17:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:13
+2021-02-03 17:15:17:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:15:28:        Check DUT connection state....
+2021-02-03 17:15:28:        DUT Connected!
+2021-02-03 17:15:28:        Get the value....
+2021-02-03 17:15:29:        EVM RMS: 2.90%
+2021-02-03 17:15:29:        EVM DMRS: 2.92%
+2021-02-03 17:15:35:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:15:46:        Check DUT connection state....
+2021-02-03 17:15:46:        DUT Connected!
+2021-02-03 17:15:46:        Get the value....
+2021-02-03 17:15:47:        EVM RMS: 5.62%
+2021-02-03 17:15:47:        EVM DMRS: 5.62%
+2021-02-03 17:15:54:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Low  SCS:30  Test Id:14
+2021-02-03 17:15:54:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:16:05:        Check DUT connection state....
+2021-02-03 17:16:05:        DUT Connected!
+2021-02-03 17:16:05:        Get the value....
+2021-02-03 17:16:06:        EVM RMS: 2.25%
+2021-02-03 17:16:06:        EVM DMRS: 2.16%
+2021-02-03 17:16:12:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:16:23:        Check DUT connection state....
+2021-02-03 17:16:23:        DUT Connected!
+2021-02-03 17:16:23:        Get the value....
+2021-02-03 17:16:24:        EVM RMS: 2.10%
+2021-02-03 17:16:24:        EVM DMRS: 2.06%
+2021-02-03 17:16:30:        OnOff NR Cell and reconnect DUT!
+2021-02-03 17:16:30:        Send AT command: AT+CFUN=0
+2021-02-03 17:16:36:        Send AT command: AT+CFUN=1
+2021-02-03 17:16:37:        Check DUT connection state....
+2021-02-03 17:16:37:        DUT Connected!
+2021-02-03 17:16:37:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:1
+2021-02-03 17:16:37:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:16:48:        Check DUT connection state....
+2021-02-03 17:16:48:        DUT Connected!
+2021-02-03 17:16:48:        Get the value....
+2021-02-03 17:16:49:        EVM RMS: 1.88%
+2021-02-03 17:16:49:        EVM DMRS: 1.35%
+2021-02-03 17:16:55:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:17:06:        Check DUT connection state....
+2021-02-03 17:17:06:        DUT Connected!
+2021-02-03 17:17:06:        Get the value....
+2021-02-03 17:17:07:        EVM RMS: 4.27%
+2021-02-03 17:17:07:        EVM DMRS: 4.12%
+2021-02-03 17:17:13:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:2
+2021-02-03 17:17:13:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:17:25:        Check DUT connection state....
+2021-02-03 17:17:25:        DUT Connected!
+2021-02-03 17:17:25:        Get the value....
+2021-02-03 17:17:26:        EVM RMS: 2.15%
+2021-02-03 17:17:26:        EVM DMRS: 1.44%
+2021-02-03 17:17:31:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:17:43:        Check DUT connection state....
+2021-02-03 17:17:43:        DUT Connected!
+2021-02-03 17:17:43:        Get the value....
+2021-02-03 17:17:44:        EVM RMS: 5.84%
+2021-02-03 17:17:44:        EVM DMRS: 5.71%
+2021-02-03 17:17:49:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:3
+2021-02-03 17:17:49:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:18:01:        Check DUT connection state....
+2021-02-03 17:18:01:        DUT Connected!
+2021-02-03 17:18:01:        Get the value....
+2021-02-03 17:18:02:        EVM RMS: 2.03%
+2021-02-03 17:18:02:        EVM DMRS: 1.39%
+2021-02-03 17:18:07:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:18:19:        Check DUT connection state....
+2021-02-03 17:18:19:        DUT Connected!
+2021-02-03 17:18:19:        Get the value....
+2021-02-03 17:18:20:        EVM RMS: 4.22%
+2021-02-03 17:18:20:        EVM DMRS: 4.09%
+2021-02-03 17:18:26:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:4
+2021-02-03 17:18:26:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:18:37:        Check DUT connection state....
+2021-02-03 17:18:37:        DUT Connected!
+2021-02-03 17:18:37:        Get the value....
+2021-02-03 17:18:38:        EVM RMS: 2.13%
+2021-02-03 17:18:38:        EVM DMRS: 1.41%
+2021-02-03 17:18:44:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:18:55:        Check DUT connection state....
+2021-02-03 17:18:55:        DUT Connected!
+2021-02-03 17:18:55:        Get the value....
+2021-02-03 17:18:56:        EVM RMS: 5.97%
+2021-02-03 17:18:56:        EVM DMRS: 5.83%
+2021-02-03 17:19:02:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:5
+2021-02-03 17:19:02:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:19:13:        Check DUT connection state....
+2021-02-03 17:19:14:        DUT Connected!
+2021-02-03 17:19:14:        Get the value....
+2021-02-03 17:19:15:        EVM RMS: 2.62%
+2021-02-03 17:19:15:        EVM DMRS: 1.99%
+2021-02-03 17:19:21:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:19:32:        Check DUT connection state....
+2021-02-03 17:19:32:        DUT Connected!
+2021-02-03 17:19:32:        Get the value....
+2021-02-03 17:19:33:        EVM RMS: 4.27%
+2021-02-03 17:19:33:        EVM DMRS: 4.14%
+2021-02-03 17:19:38:        n79_TDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:30  Test Id:6
+2021-02-03 17:19:38:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:19:42:        User abort test£¡
+2021-02-03 17:19:42:        Tip:    Program abnormal exit!2021-02-03 17:20:38:        Instrument Initialization¡­¡­¡­¡­
+2021-02-03 17:20:38:        Initialization of CU¡­¡­¡­¡­
+2021-02-03 17:20:40:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-03 17:20:40:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-03 17:20:40:        Reset CU and reconnect DUT!
+2021-02-03 17:20:40:        NR sig parms init ---------------------------------
+2021-02-03 17:20:40:        Send AT command: AT+CFUN=0
+2021-02-03 17:20:40:        Reset CU ------------------------------------------
+2021-02-03 17:21:09:        Reset CU successed!
+2021-02-03 17:21:09:        Creat Network......
+2021-02-03 17:21:14:        Creat Network successed!
+2021-02-03 17:21:14:        Creat PLMN.....
+2021-02-03 17:21:15:        Creat PLMN successed!
+2021-02-03 17:21:15:        Creat NR Cell.......
+2021-02-03 17:21:15:        Creat NR Cell successed!
+2021-02-03 17:21:15:        Sig parms setting-------------------------------
+2021-02-03 17:21:20:        NetWork go to live......, pls wait!
+2021-02-03 17:21:49:        Sig parms setting completed!
+2021-02-03 17:21:49:        Send AT command: AT+CFUN=0
+2021-02-03 17:21:51:        Send AT command: AT+CFUN=1
+2021-02-03 17:21:51:        DUT Callsetup --------------------------------------------
+2021-02-03 17:21:53:        DUT connected!
+2021-02-03 17:21:53:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-03 17:21:57:        OnOff NR Cell and reconnect DUT!
+2021-02-03 17:21:57:        Send AT command: AT+CFUN=0
+2021-02-03 17:22:02:        Send AT command: AT+CFUN=1
+2021-02-03 17:22:03:        Check DUT connection state....
+2021-02-03 17:22:03:        DUT Connected!
+2021-02-03 17:22:03:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:10
+2021-02-03 17:22:03:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:22:16:        Check DUT connection state....
+2021-02-03 17:22:16:        DUT Connected!
+2021-02-03 17:22:16:        Get the value....
+2021-02-03 17:22:17:        EVM RMS: 2.07%
+2021-02-03 17:22:17:        EVM DMRS: 2.10%
+2021-02-03 17:22:23:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:22:37:        Check DUT connection state....
+2021-02-03 17:22:37:        DUT Connected!
+2021-02-03 17:22:37:        Get the value....
+2021-02-03 17:22:38:        EVM RMS: 2.25%
+2021-02-03 17:22:38:        EVM DMRS: 2.35%
+2021-02-03 17:22:44:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:11
+2021-02-03 17:22:44:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:22:57:        Check DUT connection state....
+2021-02-03 17:22:57:        DUT Connected!
+2021-02-03 17:22:57:        Get the value....
+2021-02-03 17:22:59:        Check DUT connection state....
+2021-02-03 17:22:59:        DUT Connected!
+2021-02-03 17:23:00:        EVM RMS: -999%
+2021-02-03 17:23:00:        EVM DMRS: -999%
+2021-02-03 17:23:06:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:23:20:        Check DUT connection state....
+2021-02-03 17:23:20:        DUT Connected!
+2021-02-03 17:23:20:        Get the value....
+2021-02-03 17:23:22:        Check DUT connection state....
+2021-02-03 17:23:22:        DUT Connected!
+2021-02-03 17:23:23:        EVM RMS: -999%
+2021-02-03 17:23:23:        EVM DMRS: -999%
+2021-02-03 17:23:29:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:12
+2021-02-03 17:23:29:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-03 17:23:42:        Check DUT connection state....
+2021-02-03 17:23:42:        DUT Connected!
+2021-02-03 17:23:42:        Get the value....
+2021-02-03 17:26:58:        Check DUT connection state....
+2021-02-03 17:26:58:        DUT Connected!
+2021-02-03 17:27:01:        User abort test£¡
+2021-02-03 17:27:01:        Tip:    Program abnormal exit!2021-02-05 08:42:13:        Instrument Initialization¡­¡­¡­¡­
+2021-02-05 08:42:13:        Initialization of CU¡­¡­¡­¡­
+2021-02-05 08:42:15:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-05 08:42:15:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-05 08:42:15:        Reset CU and reconnect DUT!
+2021-02-05 08:42:15:        NR sig parms init ---------------------------------
+2021-02-05 08:42:15:        Send AT command: AT+CFUN=0
+2021-02-05 08:42:15:        Reset CU ------------------------------------------
+2021-02-05 08:42:30:        Reset CU successed!
+2021-02-05 08:42:30:        Creat Network......
+2021-02-05 08:42:35:        Creat Network successed!
+2021-02-05 08:42:35:        Creat PLMN.....
+2021-02-05 08:42:36:        Creat PLMN successed!
+2021-02-05 08:42:36:        Creat NR Cell.......
+2021-02-05 08:42:36:        Creat NR Cell successed!
+2021-02-05 08:42:36:        Sig parms setting-------------------------------
+2021-02-05 08:42:41:        NetWork go to live......, pls wait!
+2021-02-05 08:43:13:        Sig parms setting completed!
+2021-02-05 08:43:13:        Send AT command: AT+CFUN=0
+2021-02-05 08:43:15:        Send AT command: AT+CFUN=1
+2021-02-05 08:43:15:        DUT Callsetup --------------------------------------------
+2021-02-05 08:43:17:        DUT connected!
+2021-02-05 08:43:17:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-05 08:43:19:        OnOff NR Cell and reconnect DUT!
+2021-02-05 08:43:19:        Send AT command: AT+CFUN=0
+2021-02-05 08:43:25:        Send AT command: AT+CFUN=1
+2021-02-05 08:43:26:        Check DUT connection state....
+2021-02-05 08:43:26:        DUT Connected!
+2021-02-05 08:43:26:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:5
+2021-02-05 08:43:26:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 08:43:39:        Check DUT connection state....
+2021-02-05 08:43:39:        DUT Connected!
+2021-02-05 08:43:39:        Get the value....
+2021-02-05 08:43:41:        Check DUT connection state....
+2021-02-05 08:43:41:        DUT Connected!
+2021-02-05 08:43:42:        EVM RMS: -999%
+2021-02-05 08:43:42:        EVM DMRS: -999%
+2021-02-05 08:43:46:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 08:43:54:        User abort test£¡
+2021-02-05 08:43:54:        Tip:    Program abnormal exit!2021-02-05 08:44:34:        Instrument Initialization¡­¡­¡­¡­
+2021-02-05 08:44:34:        Initialization of CU¡­¡­¡­¡­
+2021-02-05 08:44:36:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-05 08:44:36:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-05 08:44:36:        Reset CU and reconnect DUT!
+2021-02-05 08:44:36:        NR sig parms init ---------------------------------
+2021-02-05 08:44:36:        Send AT command: AT+CFUN=0
+2021-02-05 08:44:36:        Reset CU ------------------------------------------
+2021-02-05 08:44:51:        Reset CU successed!
+2021-02-05 08:44:51:        Creat Network......
+2021-02-05 08:44:57:        Creat Network successed!
+2021-02-05 08:44:57:        Creat PLMN.....
+2021-02-05 08:44:57:        Creat PLMN successed!
+2021-02-05 08:44:57:        Creat NR Cell.......
+2021-02-05 08:44:57:        Creat NR Cell successed!
+2021-02-05 08:44:57:        Sig parms setting-------------------------------
+2021-02-05 08:45:03:        NetWork go to live......, pls wait!
+2021-02-05 08:45:30:        Sig parms setting completed!
+2021-02-05 08:45:30:        Send AT command: AT+CFUN=0
+2021-02-05 08:45:32:        Send AT command: AT+CFUN=1
+2021-02-05 08:45:32:        DUT Callsetup --------------------------------------------
+2021-02-05 08:45:34:        DUT connected!
+2021-02-05 08:45:34:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-05 08:45:37:        OnOff NR Cell and reconnect DUT!
+2021-02-05 08:45:37:        Send AT command: AT+CFUN=0
+2021-02-05 08:45:42:        Send AT command: AT+CFUN=1
+2021-02-05 08:45:43:        Check DUT connection state....
+2021-02-05 08:45:43:        DUT Connected!
+2021-02-05 08:45:43:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:5
+2021-02-05 08:45:43:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 08:45:57:        Check DUT connection state....
+2021-02-05 08:45:57:        DUT Connected!
+2021-02-05 08:45:57:        Get the value....
+2021-02-05 09:01:05:        Check DUT connection state....
+2021-02-05 09:01:05:        DUT Connected!
+2021-02-05 09:01:06:        EVM RMS: -999%
+2021-02-05 09:01:06:        EVM DMRS: -999%
+2021-02-05 09:01:12:        User abort test£¡
+2021-02-05 09:01:12:        Tip:    Program abnormal exit!2021-02-05 09:17:52:        Instrument Initialization¡­¡­¡­¡­
+2021-02-05 09:17:52:        Initialization of CU¡­¡­¡­¡­
+2021-02-05 09:17:54:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-05 09:17:54:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-05 09:17:54:        Reset CU and reconnect DUT!
+2021-02-05 09:17:54:        NR sig parms init ---------------------------------
+2021-02-05 09:17:54:        Send AT command: AT+CFUN=0
+2021-02-05 09:17:54:        Reset CU ------------------------------------------
+2021-02-05 09:18:10:        Reset CU successed!
+2021-02-05 09:18:10:        Creat Network......
+2021-02-05 09:18:16:        Creat Network successed!
+2021-02-05 09:18:16:        Creat PLMN.....
+2021-02-05 09:18:16:        Creat PLMN successed!
+2021-02-05 09:18:16:        Creat NR Cell.......
+2021-02-05 09:18:16:        Creat NR Cell successed!
+2021-02-05 09:18:16:        Sig parms setting-------------------------------
+2021-02-05 09:18:22:        NetWork go to live......, pls wait!
+2021-02-05 09:18:50:        Sig parms setting completed!
+2021-02-05 09:18:50:        Send AT command: AT+CFUN=0
+2021-02-05 09:18:52:        Send AT command: AT+CFUN=1
+2021-02-05 09:18:52:        DUT Callsetup --------------------------------------------
+2021-02-05 09:18:54:        DUT connected!
+2021-02-05 09:18:54:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-05 09:18:57:        OnOff NR Cell and reconnect DUT!
+2021-02-05 09:18:57:        Send AT command: AT+CFUN=0
+2021-02-05 09:19:02:        Send AT command: AT+CFUN=1
+2021-02-05 09:19:03:        Check DUT connection state....
+2021-02-05 09:19:03:        DUT Connected!
+2021-02-05 09:19:03:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:5
+2021-02-05 09:19:03:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:19:14:        Check DUT connection state....
+2021-02-05 09:19:14:        DUT Connected!
+2021-02-05 09:19:14:        Get the value....
+2021-02-05 09:19:16:        Check DUT connection state....
+2021-02-05 09:19:16:        DUT Connected!
+2021-02-05 09:19:17:        EVM RMS: -999%
+2021-02-05 09:19:17:        EVM DMRS: -999%
+2021-02-05 09:19:20:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:19:30:        Check DUT connection state....
+2021-02-05 09:19:31:        DUT Connected!
+2021-02-05 09:19:31:        Get the value....
+2021-02-05 09:19:35:        User abort test£¡
+2021-02-05 09:19:35:        Tip:    Program abnormal exit!2021-02-05 09:21:39:        Instrument Initialization¡­¡­¡­¡­
+2021-02-05 09:21:39:        Initialization of CU¡­¡­¡­¡­
+2021-02-05 09:21:41:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-05 09:21:41:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-05 09:21:41:        Reset CU and reconnect DUT!
+2021-02-05 09:21:41:        NR sig parms init ---------------------------------
+2021-02-05 09:21:41:        Send AT command: AT+CFUN=0
+2021-02-05 09:21:41:        Reset CU ------------------------------------------
+2021-02-05 09:21:56:        Reset CU successed!
+2021-02-05 09:21:56:        Creat Network......
+2021-02-05 09:22:02:        Creat Network successed!
+2021-02-05 09:22:02:        Creat PLMN.....
+2021-02-05 09:22:02:        Creat PLMN successed!
+2021-02-05 09:22:02:        Creat NR Cell.......
+2021-02-05 09:22:02:        Creat NR Cell successed!
+2021-02-05 09:22:02:        Sig parms setting-------------------------------
+2021-02-05 09:22:08:        NetWork go to live......, pls wait!
+2021-02-05 09:22:35:        Sig parms setting completed!
+2021-02-05 09:22:35:        Send AT command: AT+CFUN=0
+2021-02-05 09:22:37:        Send AT command: AT+CFUN=1
+2021-02-05 09:22:37:        DUT Callsetup --------------------------------------------
+2021-02-05 09:22:39:        DUT connected!
+2021-02-05 09:22:39:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-05 09:22:42:        OnOff NR Cell and reconnect DUT!
+2021-02-05 09:22:42:        Send AT command: AT+CFUN=0
+2021-02-05 09:22:46:        Send AT command: AT+CFUN=1
+2021-02-05 09:22:47:        Check DUT connection state....
+2021-02-05 09:22:47:        DUT Connected!
+2021-02-05 09:22:47:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:5
+2021-02-05 09:22:47:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:22:58:        Check DUT connection state....
+2021-02-05 09:22:58:        DUT Connected!
+2021-02-05 09:22:58:        Get the value....
+2021-02-05 09:23:00:        Check DUT connection state....
+2021-02-05 09:23:00:        DUT Connected!
+2021-02-05 09:23:01:        EVM RMS: -999%
+2021-02-05 09:23:01:        EVM DMRS: -999%
+2021-02-05 09:23:10:        User abort test£¡
+2021-02-05 09:23:10:        Tip:    Program abnormal exit!2021-02-05 09:38:13:        Instrument Initialization¡­¡­¡­¡­
+2021-02-05 09:38:13:        Initialization of CU¡­¡­¡­¡­
+2021-02-05 09:38:15:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-05 09:38:15:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-05 09:38:15:        Reset CU and reconnect DUT!
+2021-02-05 09:38:15:        NR sig parms init ---------------------------------
+2021-02-05 09:38:15:        Send AT command: AT+CFUN=0
+2021-02-05 09:38:15:        Reset CU ------------------------------------------
+2021-02-05 09:38:30:        Reset CU successed!
+2021-02-05 09:38:30:        Creat Network......
+2021-02-05 09:38:35:        Creat Network successed!
+2021-02-05 09:38:35:        Creat PLMN.....
+2021-02-05 09:38:36:        Creat PLMN successed!
+2021-02-05 09:38:36:        Creat NR Cell.......
+2021-02-05 09:38:36:        Creat NR Cell successed!
+2021-02-05 09:38:36:        Sig parms setting-------------------------------
+2021-02-05 09:38:41:        NetWork go to live......, pls wait!
+2021-02-05 09:39:09:        Sig parms setting completed!
+2021-02-05 09:39:09:        Send AT command: AT+CFUN=0
+2021-02-05 09:39:11:        Send AT command: AT+CFUN=1
+2021-02-05 09:39:11:        DUT Callsetup --------------------------------------------
+2021-02-05 09:39:13:        DUT connected!
+2021-02-05 09:39:13:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-05 09:39:16:        OnOff NR Cell and reconnect DUT!
+2021-02-05 09:39:16:        Send AT command: AT+CFUN=0
+2021-02-05 09:39:20:        Send AT command: AT+CFUN=1
+2021-02-05 09:39:21:        Check DUT connection state....
+2021-02-05 09:39:21:        DUT Connected!
+2021-02-05 09:39:21:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:5
+2021-02-05 09:39:21:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:39:31:        Check DUT connection state....
+2021-02-05 09:39:31:        DUT Connected!
+2021-02-05 09:39:31:        Get the value....
+2021-02-05 09:39:34:        EVM RMS: -999%
+2021-02-05 09:39:34:        EVM DMRS: -999%
+2021-02-05 09:39:41:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:39:47:        User abort test£¡
+2021-02-05 09:39:47:        Tip:    Program abnormal exit!2021-02-05 09:40:34:        Instrument Initialization¡­¡­¡­¡­
+2021-02-05 09:40:34:        Initialization of CU¡­¡­¡­¡­
+2021-02-05 09:40:36:        Rohde&Schwarz,CMW,1201.0002k50/145022,4.0.8.7 bet Initialization of the CU is successful!
+2021-02-05 09:40:36:        Please check the tempratrue is 25¡æ, the voltage is 12V
+2021-02-05 09:40:36:        Reset CU and reconnect DUT!
+2021-02-05 09:40:36:        NR sig parms init ---------------------------------
+2021-02-05 09:40:36:        Send AT command: AT+CFUN=0
+2021-02-05 09:40:36:        Reset CU ------------------------------------------
+2021-02-05 09:40:51:        Reset CU successed!
+2021-02-05 09:40:51:        Creat Network......
+2021-02-05 09:40:56:        Creat Network successed!
+2021-02-05 09:40:56:        Creat PLMN.....
+2021-02-05 09:40:57:        Creat PLMN successed!
+2021-02-05 09:40:57:        Creat NR Cell.......
+2021-02-05 09:40:57:        Creat NR Cell successed!
+2021-02-05 09:40:57:        Sig parms setting-------------------------------
+2021-02-05 09:41:02:        NetWork go to live......, pls wait!
+2021-02-05 09:41:33:        Sig parms setting completed!
+2021-02-05 09:41:33:        Send AT command: AT+CFUN=0
+2021-02-05 09:41:35:        Send AT command: AT+CFUN=1
+2021-02-05 09:41:35:        DUT Callsetup --------------------------------------------
+2021-02-05 09:41:37:        DUT connected!
+2021-02-05 09:41:37:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH testing......
+2021-02-05 09:41:40:        Reset CU and reconnect DUT!
+2021-02-05 09:41:40:        NR sig parms init ---------------------------------
+2021-02-05 09:41:40:        Send AT command: AT+CFUN=0
+2021-02-05 09:41:40:        Reset CU ------------------------------------------
+2021-02-05 09:41:51:        Reset CU successed!
+2021-02-05 09:41:51:        Creat Network......
+2021-02-05 09:41:57:        Creat Network successed!
+2021-02-05 09:41:57:        Creat PLMN.....
+2021-02-05 09:41:57:        Creat PLMN successed!
+2021-02-05 09:41:57:        Creat NR Cell.......
+2021-02-05 09:41:57:        Creat NR Cell successed!
+2021-02-05 09:41:57:        Sig parms setting-------------------------------
+2021-02-05 09:42:03:        NetWork go to live......, pls wait!
+2021-02-05 09:42:30:        Sig parms setting completed!
+2021-02-05 09:42:30:        Send AT command: AT+CFUN=0
+2021-02-05 09:42:32:        Send AT command: AT+CFUN=1
+2021-02-05 09:42:32:        DUT Callsetup --------------------------------------------
+2021-02-05 09:42:34:        DUT connected!
+2021-02-05 09:42:34:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:5
+2021-02-05 09:42:34:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:42:44:        Check DUT connection state....
+2021-02-05 09:42:44:        DUT Connected!
+2021-02-05 09:42:44:        Get the value....
+2021-02-05 09:42:45:        EVM RMS: 1.70%
+2021-02-05 09:42:45:        EVM DMRS: 1.06%
+2021-02-05 09:42:51:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:43:02:        Check DUT connection state....
+2021-02-05 09:43:02:        DUT Connected!
+2021-02-05 09:43:02:        Get the value....
+2021-02-05 09:43:03:        EVM RMS: 1.73%
+2021-02-05 09:43:03:        EVM DMRS: 1.88%
+2021-02-05 09:43:09:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:6
+2021-02-05 09:43:09:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:43:20:        Check DUT connection state....
+2021-02-05 09:43:20:        DUT Connected!
+2021-02-05 09:43:20:        Get the value....
+2021-02-05 09:43:21:        EVM RMS: 1.53%
+2021-02-05 09:43:21:        EVM DMRS: 1.37%
+2021-02-05 09:43:27:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:43:37:        Check DUT connection state....
+2021-02-05 09:43:37:        DUT Connected!
+2021-02-05 09:43:37:        Get the value....
+2021-02-05 09:43:38:        EVM RMS: 2.41%
+2021-02-05 09:43:38:        EVM DMRS: 2.68%
+2021-02-05 09:43:45:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:7
+2021-02-05 09:43:45:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:43:55:        Check DUT connection state....
+2021-02-05 09:43:55:        DUT Connected!
+2021-02-05 09:43:55:        Get the value....
+2021-02-05 09:43:56:        EVM RMS: 1.59%
+2021-02-05 09:43:56:        EVM DMRS: 1.18%
+2021-02-05 09:44:03:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:44:13:        Check DUT connection state....
+2021-02-05 09:44:13:        DUT Connected!
+2021-02-05 09:44:13:        Get the value....
+2021-02-05 09:44:14:        EVM RMS: 2.59%
+2021-02-05 09:44:14:        EVM DMRS: 2.91%
+2021-02-05 09:44:21:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:8
+2021-02-05 09:44:21:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:44:31:        Check DUT connection state....
+2021-02-05 09:44:31:        DUT Connected!
+2021-02-05 09:44:31:        Get the value....
+2021-02-05 09:44:32:        EVM RMS: 1.28%
+2021-02-05 09:44:32:        EVM DMRS: 1.03%
+2021-02-05 09:44:38:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:44:49:        Check DUT connection state....
+2021-02-05 09:44:49:        DUT Connected!
+2021-02-05 09:44:49:        Get the value....
+2021-02-05 09:44:50:        EVM RMS: 1.12%
+2021-02-05 09:44:50:        EVM DMRS: 1.15%
+2021-02-05 09:44:57:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:9
+2021-02-05 09:44:57:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:45:07:        Check DUT connection state....
+2021-02-05 09:45:07:        DUT Connected!
+2021-02-05 09:45:07:        Get the value....
+2021-02-05 09:45:08:        EVM RMS: 2.96%
+2021-02-05 09:45:08:        EVM DMRS: 2.67%
+2021-02-05 09:45:14:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:45:25:        Check DUT connection state....
+2021-02-05 09:45:25:        DUT Connected!
+2021-02-05 09:45:25:        Get the value....
+2021-02-05 09:45:26:        EVM RMS: 2.08%
+2021-02-05 09:45:26:        EVM DMRS: 2.27%
+2021-02-05 09:45:32:        n1_20_FDD ts138521_1 6.4.2.1 Error Vector Magnitude for PUSCH  BW:Low  Channel:Mid  SCS:15  Test Id:10
+2021-02-05 09:45:32:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:45:43:        Check DUT connection state....
+2021-02-05 09:45:43:        DUT Connected!
+2021-02-05 09:45:43:        Get the value....
+2021-02-05 09:45:44:        EVM RMS: 2.17%
+2021-02-05 09:45:44:        EVM DMRS: 2.23%
+2021-02-05 09:45:50:        Meas parms setting for 6.4.2.1 -----------------------------
+2021-02-05 09:45:54:        User abort test£¡
+2021-02-05 09:45:54:        Tip:    Program abnormal exit!

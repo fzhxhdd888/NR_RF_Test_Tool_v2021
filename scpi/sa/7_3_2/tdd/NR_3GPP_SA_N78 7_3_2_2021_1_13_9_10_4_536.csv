@@ -1,0 +1,14 @@
+startTime:2021/1/13 9:10:03
+toolVersion:1.0.7654.38979
+PASS:9,FAIL:0,Total:9
+Time:00:05:53
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n78,620334,-95.1,,DFT,NR_10MHZ,SCS30,DFT_RefSensRBAllocation:24@0,2,NR_QPSK,CP_Outer_Full:24@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2021-1-13 9:13:38,BLER,0.05,0,5,%,PASS
+NR,n78,636666,-95.1,,DFT,NR_10MHZ,SCS30,DFT_RefSensRBAllocation:24@0,2,NR_QPSK,CP_Outer_Full:24@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2021-1-13 9:13:55,BLER,0.05,0,5,%,PASS
+NR,n78,653000,-95.1,,DFT,NR_10MHZ,SCS30,DFT_RefSensRBAllocation:24@0,2,NR_QPSK,CP_Outer_Full:24@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2021-1-13 9:14:12,BLER,0.95,0,5,%,PASS
+NR,n78,621668,-87.7,,DFT,NR_50MHZ,SCS30,DFT_RefSensRBAllocation:128@0,2,NR_QPSK,CP_Outer_Full:133@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2021-1-13 9:14:28,BLER,0.00,0,5,%,PASS
+NR,n78,636666,-87.7,,DFT,NR_50MHZ,SCS30,DFT_RefSensRBAllocation:128@0,2,NR_QPSK,CP_Outer_Full:133@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2021-1-13 9:14:47,BLER,0.00,0,5,%,PASS
+NR,n78,651666,-87.7,,DFT,NR_50MHZ,SCS30,DFT_RefSensRBAllocation:128@0,2,NR_QPSK,CP_Outer_Full:133@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2021-1-13 9:15:4,BLER,0.00,0,5,%,PASS
+NR,n78,623334,-84.6,,DFT,NR_100MHZ,SCS30,DFT_RefSensRBAllocation:270@0,2,NR_QPSK,CP_Outer_Full:273@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2021-1-13 9:15:20,BLER,0.00,0,5,%,PASS
+NR,n78,636666,-84.6,,DFT,NR_100MHZ,SCS30,DFT_RefSensRBAllocation:270@0,2,NR_QPSK,CP_Outer_Full:273@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2021-1-13 9:15:37,BLER,0.00,0,5,%,PASS
+NR,n78,650000,-84.6,,DFT,NR_100MHZ,SCS30,DFT_RefSensRBAllocation:270@0,2,NR_QPSK,CP_Outer_Full:273@0,2,NA,NA,NA,NA,NA,NR_7_3_2_Reference_sensitivity_power_level,2021-1-13 9:15:53,BLER,0.00,0,5,%,PASS

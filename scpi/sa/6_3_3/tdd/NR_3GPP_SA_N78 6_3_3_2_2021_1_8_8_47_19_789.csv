@@ -1,0 +1,14 @@
+startTime:2021/1/8 8:47:19
+toolVersion:1.0.7654.38979
+PASS:3,FAIL:0,Total:9
+Time:00:11:27
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n78,620334,-57.4,,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,2021-1-8 8:51:3,Off Power Before,-61.95,-99,-48.5,dBm,PASS
+NR,n78,620334,-57.4,,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,2021-1-8 8:51:3,Off Power After,-74.65,-99,-48.5,dBm,PASS
+NR,n78,620334,-57.4,,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,2021-1-8 8:51:3,On Power,-0.01,-10.5,10.5,dBm,PASS
+NR,n78,636666,-57.4,,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,2021-1-8 8:54:3,Off Power Before,-65.53,-99,-48.5,dBm,PASS
+NR,n78,636666,-57.4,,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,2021-1-8 8:54:3,Off Power After,-73.52,-99,-48.5,dBm,PASS
+NR,n78,636666,-57.4,,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,2021-1-8 8:54:3,On Power,-0.73,-10.5,10.5,dBm,PASS
+NR,n78,653000,-57.4,,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,2021-1-8 8:57:6,Off Power Before,-69.86,-99,-48.5,dBm,PASS
+NR,n78,653000,-57.4,,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,2021-1-8 8:57:6,Off Power After,-73.09,-99,-48.5,dBm,PASS
+NR,n78,653000,-57.4,,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_3_2_General_ON_OFF_time_mask,2021-1-8 8:57:6,On Power,-1.02,-10.5,10.5,dBm,PASS

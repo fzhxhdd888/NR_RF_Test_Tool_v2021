@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>main_win</class>
+ <widget class="QMainWindow" name="main_win">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1152</width>
+    <height>819</height>
+   </rect>
+  </property>
+  <property name="contextMenuPolicy">
+   <enum>Qt::DefaultContextMenu</enum>
+  </property>
+  <property name="windowTitle">
+   <string>NR RF Test Tool</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="../image/icons.qrc">
+    <normaloff>:/actionicons/5G_64px.ico</normaloff>:/actionicons/5G_64px.ico</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <property name="iconSize">
+   <size>
+    <width>40</width>
+    <height>40</height>
+   </size>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionRun"/>
+   <addaction name="separator"/>
+   <addaction name="actionPause"/>
+   <addaction name="separator"/>
+   <addaction name="actionStop"/>
+   <addaction name="separator"/>
+   <addaction name="separator"/>
+   <addaction name="separator"/>
+   <addaction name="separator"/>
+   <addaction name="separator"/>
+   <addaction name="actionnew_test_seq"/>
+   <addaction name="separator"/>
+   <addaction name="actionSave_Test_sequence"/>
+   <addaction name="separator"/>
+   <addaction name="actionLoad_test_sequence"/>
+   <addaction name="separator"/>
+   <addaction name="actionDUT"/>
+   <addaction name="separator"/>
+   <addaction name="actionReport_Path"/>
+   <addaction name="separator"/>
+   <addaction name="actionPath_Loss"/>
+   <addaction name="separator"/>
+   <addaction name="actionDevices_Config"/>
+   <addaction name="separator"/>
+   <addaction name="actionChannel_Config"/>
+   <addaction name="separator"/>
+   <addaction name="actionLast_Config"/>
+  </widget>
+  <widget class="QDockWidget" name="dockWidget_Information">
+   <property name="minimumSize">
+    <size>
+     <width>544</width>
+     <height>158</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>524287</width>
+     <height>160</height>
+    </size>
+   </property>
+   <property name="features">
+    <set>QDockWidget::NoDockWidgetFeatures</set>
+   </property>
+   <property name="allowedAreas">
+    <set>Qt::TopDockWidgetArea</set>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>4</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents">
+    <layout class="QHBoxLayout" name="horizontalLayout_6">
+     <item>
+      <widget class="QGroupBox" name="groupBox">
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>110</height>
+        </size>
+       </property>
+       <property name="font">
+        <font>
+         <family>Arial</family>
+         <pointsize>12</pointsize>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">color: rgb(5, 184, 204);</string>
+       </property>
+       <property name="title">
+        <string>Currently Allocated:</string>
+       </property>
+       <layout class="QHBoxLayout" name="horizontalLayout_3">
+        <item>
+         <widget class="QLabel" name="label_4">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="pixmap">
+           <pixmap resource="../image/icons.qrc">:/actionicons/dut_64px.ico</pixmap>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_dutacitve">
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_5">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="pixmap">
+           <pixmap resource="../image/icons.qrc">:/actionicons/report_64px.ico</pixmap>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_report">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_6">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="pixmap">
+           <pixmap resource="../image/icons.qrc">:/actionicons/loss_64px.ico</pixmap>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_loss">
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>7</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="horizontalSpacer">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeType">
+           <enum>QSizePolicy::Minimum</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+        <item>
+         <layout class="QVBoxLayout" name="verticalLayout_5">
+          <item>
+           <widget class="QLabel" name="label_7">
+            <property name="font">
+             <font>
+              <family>Arial</family>
+              <pointsize>12</pointsize>
+             </font>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">color: rgb(5, 184, 204);</string>
+            </property>
+            <property name="text">
+             <string>Test progress：</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QProgressBar" name="ProgressBar">
+            <property name="styleSheet">
+             <string notr="true">QProgressBar{
+border: 2px solid grey;
+border-radius: 5px;
+}
+
+
+QProgressBar::chunk{
+background-color: #05B8CC; 
+width: 20px;
+}
+
+</string>
+            </property>
+            <property name="value">
+             <number>24</number>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_totalstep">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_movie">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_time">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QDockWidget" name="dockWidget_state">
+   <property name="minimumSize">
+    <size>
+     <width>109</width>
+     <height>135</height>
+    </size>
+   </property>
+   <property name="allowedAreas">
+    <set>Qt::BottomDockWidgetArea|Qt::LeftDockWidgetArea|Qt::RightDockWidgetArea</set>
+   </property>
+   <property name="windowTitle">
+    <string>Tips View</string>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>8</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents_2">
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QTextBrowser" name="textBrowser_log">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(141, 141, 141);</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QDockWidget" name="dockWidget_chart">
+   <property name="minimumSize">
+    <size>
+     <width>150</width>
+     <height>200</height>
+    </size>
+   </property>
+   <property name="allowedAreas">
+    <set>Qt::BottomDockWidgetArea|Qt::LeftDockWidgetArea|Qt::RightDockWidgetArea</set>
+   </property>
+   <property name="windowTitle">
+    <string>Summary Chart View</string>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>2</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents_3">
+    <layout class="QHBoxLayout" name="horizontalLayout_7">
+     <item>
+      <layout class="QGridLayout" name="gridLayout_summry"/>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QDockWidget" name="dockWidget_plan">
+   <property name="minimumSize">
+    <size>
+     <width>109</width>
+     <height>135</height>
+    </size>
+   </property>
+   <property name="allowedAreas">
+    <set>Qt::BottomDockWidgetArea|Qt::LeftDockWidgetArea|Qt::RightDockWidgetArea</set>
+   </property>
+   <property name="windowTitle">
+    <string>Test Plan View</string>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>1</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents_4">
+    <layout class="QHBoxLayout" name="horizontalLayout_8">
+     <item>
+      <widget class="QTableWidget" name="tableWidget_plan"/>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QDockWidget" name="dockWidget_result">
+   <property name="minimumSize">
+    <size>
+     <width>109</width>
+     <height>135</height>
+    </size>
+   </property>
+   <property name="allowedAreas">
+    <set>Qt::BottomDockWidgetArea|Qt::LeftDockWidgetArea|Qt::RightDockWidgetArea</set>
+   </property>
+   <property name="windowTitle">
+    <string>Result View</string>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>1</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents_5">
+    <layout class="QHBoxLayout" name="horizontalLayout_9">
+     <item>
+      <widget class="QTableWidget" name="tableWidget_result"/>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QDockWidget" name="dockWidget_scpi">
+   <property name="minimumSize">
+    <size>
+     <width>109</width>
+     <height>135</height>
+    </size>
+   </property>
+   <property name="allowedAreas">
+    <set>Qt::BottomDockWidgetArea|Qt::LeftDockWidgetArea|Qt::RightDockWidgetArea</set>
+   </property>
+   <property name="windowTitle">
+    <string>SCPI View</string>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>8</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents_6">
+    <layout class="QHBoxLayout" name="horizontalLayout_10">
+     <item>
+      <widget class="QTextBrowser" name="textBrowser_scpi">
+       <property name="styleSheet">
+        <string notr="true">color: rgb(0, 170, 255);</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QDockWidget" name="dockWidget_failed">
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>109</width>
+     <height>135</height>
+    </size>
+   </property>
+   <property name="allowedAreas">
+    <set>Qt::BottomDockWidgetArea|Qt::LeftDockWidgetArea|Qt::RightDockWidgetArea</set>
+   </property>
+   <property name="windowTitle">
+    <string>Failed Cases View</string>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>1</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents_7">
+    <layout class="QHBoxLayout" name="horizontalLayout_11">
+     <item>
+      <widget class="QTableWidget" name="tableWidget_faileditems"/>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1152</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuOperation">
+    <property name="title">
+     <string>Operation</string>
+    </property>
+    <addaction name="actionRun"/>
+    <addaction name="separator"/>
+    <addaction name="actionPause"/>
+    <addaction name="separator"/>
+    <addaction name="actionStop"/>
+   </widget>
+   <widget class="QMenu" name="menuTest_Sequence">
+    <property name="title">
+     <string>Test Sequence</string>
+    </property>
+    <addaction name="actionnew_test_seq"/>
+    <addaction name="separator"/>
+    <addaction name="actionSave_Test_sequence"/>
+    <addaction name="separator"/>
+    <addaction name="actionLoad_test_sequence"/>
+   </widget>
+   <widget class="QMenu" name="menuConfig">
+    <property name="title">
+     <string>Config</string>
+    </property>
+    <addaction name="actionDevices_Config"/>
+    <addaction name="separator"/>
+    <addaction name="actionDUT"/>
+    <addaction name="separator"/>
+    <addaction name="actionReport_Path"/>
+    <addaction name="separator"/>
+    <addaction name="actionPath_Loss"/>
+    <addaction name="separator"/>
+    <addaction name="actionChannel_Config"/>
+    <addaction name="separator"/>
+    <addaction name="actionLast_Config"/>
+    <addaction name="separator"/>
+   </widget>
+   <widget class="QMenu" name="menuWindows">
+    <property name="title">
+     <string>Windows</string>
+    </property>
+    <addaction name="actionResult_View"/>
+    <addaction name="separator"/>
+    <addaction name="actionTest_Plan_View"/>
+    <addaction name="separator"/>
+    <addaction name="actionTips_View"/>
+    <addaction name="separator"/>
+    <addaction name="actionSCPI_View"/>
+    <addaction name="separator"/>
+    <addaction name="actionFailed_Cases_View"/>
+    <addaction name="separator"/>
+    <addaction name="actionSummary_Chart_View"/>
+   </widget>
+   <addaction name="menuOperation"/>
+   <addaction name="menuTest_Sequence"/>
+   <addaction name="menuConfig"/>
+   <addaction name="menuWindows"/>
+  </widget>
+  <action name="actionRun">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/Start_64px.ico</normaloff>:/actionicons/Start_64px.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Run</string>
+   </property>
+   <property name="toolTip">
+    <string>Run</string>
+   </property>
+  </action>
+  <action name="actionPause">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/Pause_64px.ico</normaloff>:/actionicons/Pause_64px.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Pause</string>
+   </property>
+  </action>
+  <action name="actionStop">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/Stop_red_64px.ico</normaloff>:/actionicons/Stop_red_64px.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Stop</string>
+   </property>
+  </action>
+  <action name="actionnew_test_seq">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/new_seq_64px.net.ico</normaloff>:/actionicons/new_seq_64px.net.ico</iconset>
+   </property>
+   <property name="text">
+    <string>New test sequence</string>
+   </property>
+  </action>
+  <action name="actionSave_Test_sequence">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/Save_64px.ico</normaloff>:/actionicons/Save_64px.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Save Test sequence</string>
+   </property>
+  </action>
+  <action name="actionLoad_test_sequence">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/load_seq_64px.ico</normaloff>:/actionicons/load_seq_64px.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Load test sequence</string>
+   </property>
+  </action>
+  <action name="actionDevices_Config">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/device2.ico</normaloff>:/actionicons/device2.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Devices Config</string>
+   </property>
+  </action>
+  <action name="actionDUT">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/dut_64px.ico</normaloff>:/actionicons/dut_64px.ico</iconset>
+   </property>
+   <property name="text">
+    <string>DUT</string>
+   </property>
+  </action>
+  <action name="actionReport_Path">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/report_64px.ico</normaloff>:/actionicons/report_64px.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Report Path</string>
+   </property>
+  </action>
+  <action name="actionPath_Loss">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/loss_64px.ico</normaloff>:/actionicons/loss_64px.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Path Loss</string>
+   </property>
+  </action>
+  <action name="actionChannel_Config">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/arrow_down_up_64px.ico</normaloff>:/actionicons/arrow_down_up_64px.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Channel Config</string>
+   </property>
+  </action>
+  <action name="actionLast_Config">
+   <property name="icon">
+    <iconset resource="../image/icons.qrc">
+     <normaloff>:/actionicons/lastconfig_64px.ico</normaloff>:/actionicons/lastconfig_64px.ico</iconset>
+   </property>
+   <property name="text">
+    <string>Last Config</string>
+   </property>
+  </action>
+  <action name="actionResult_View">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Result View</string>
+   </property>
+  </action>
+  <action name="actionTest_Plan_View">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Test Plan View</string>
+   </property>
+  </action>
+  <action name="actionTips_View">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Tips View</string>
+   </property>
+  </action>
+  <action name="actionSCPI_View">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>SCPI View</string>
+   </property>
+  </action>
+  <action name="actionFailed_Cases_View">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Failed Cases View</string>
+   </property>
+  </action>
+  <action name="actionSummary_Chart_View">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Summary Chart View</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="../image/icons.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>actionResult_View</sender>
+   <signal>triggered(bool)</signal>
+   <receiver>dockWidget_result</receiver>
+   <slot>setVisible(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>138</x>
+     <y>450</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>dockWidget_result</sender>
+   <signal>visibilityChanged(bool)</signal>
+   <receiver>actionResult_View</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>138</x>
+     <y>450</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>dockWidget_plan</sender>
+   <signal>visibilityChanged(bool)</signal>
+   <receiver>actionTest_Plan_View</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>108</x>
+     <y>787</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>actionTest_Plan_View</sender>
+   <signal>triggered(bool)</signal>
+   <receiver>dockWidget_plan</receiver>
+   <slot>setVisible(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>108</x>
+     <y>787</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>dockWidget_state</sender>
+   <signal>visibilityChanged(bool)</signal>
+   <receiver>actionTips_View</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>412</x>
+     <y>787</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>actionTips_View</sender>
+   <signal>triggered(bool)</signal>
+   <receiver>dockWidget_state</receiver>
+   <slot>setVisible(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>412</x>
+     <y>787</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>dockWidget_scpi</sender>
+   <signal>visibilityChanged(bool)</signal>
+   <receiver>actionSCPI_View</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>753</x>
+     <y>787</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>actionSCPI_View</sender>
+   <signal>triggered(bool)</signal>
+   <receiver>dockWidget_scpi</receiver>
+   <slot>setVisible(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>753</x>
+     <y>787</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>dockWidget_failed</sender>
+   <signal>visibilityChanged(bool)</signal>
+   <receiver>actionFailed_Cases_View</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>1015</x>
+     <y>787</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>actionFailed_Cases_View</sender>
+   <signal>triggered(bool)</signal>
+   <receiver>dockWidget_failed</receiver>
+   <slot>setVisible(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1015</x>
+     <y>787</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>dockWidget_chart</sender>
+   <signal>visibilityChanged(bool)</signal>
+   <receiver>actionSummary_Chart_View</receiver>
+   <slot>setChecked(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>1079</x>
+     <y>450</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>actionSummary_Chart_View</sender>
+   <signal>triggered(bool)</signal>
+   <receiver>dockWidget_chart</receiver>
+   <slot>setVisible(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1079</x>
+     <y>450</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

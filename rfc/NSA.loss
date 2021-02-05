@@ -1,0 +1,34 @@
+<Loss>
+	<loss>
+		<Frequency>500</Frequency>
+		<Value>4.7</Value>
+	</loss>
+	<loss>
+		<Frequency>800</Frequency>
+		<Value>4.8</Value>
+	</loss>
+	<loss>
+		<Frequency>1000</Frequency>
+		<Value>5</Value>
+	</loss>
+	<loss>
+		<Frequency>2000</Frequency>
+		<Value>5.5</Value>
+	</loss>
+	<loss>
+		<Frequency>3000</Frequency>
+		<Value>5.8</Value>
+	</loss>
+	<loss>
+		<Frequency>4000</Frequency>
+		<Value>6.4</Value>
+	</loss>
+	<loss>
+		<Frequency>5000</Frequency>
+		<Value>6.8</Value>
+	</loss>
+	<loss>
+		<Frequency>6000</Frequency>
+		<Value>7.2</Value>
+	</loss>
+</Loss>

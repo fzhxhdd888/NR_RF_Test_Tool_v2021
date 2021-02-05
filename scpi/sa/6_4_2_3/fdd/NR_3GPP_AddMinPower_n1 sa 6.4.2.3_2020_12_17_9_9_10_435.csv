@@ -1,0 +1,37 @@
+startTime:2020/12/17 9:09:09
+toolVersion:1.0.7611.31201
+PASS:16,FAIL:0,Total:144
+Time:00:03:51
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n1,384500,-60,11.10,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:11.75,11.10,10,13.5,dBm,PASS
+NR,n1,384500,-60,11.10,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:11.75,25.86,0,99,dB,PASS
+NR,n1,384500,-60,11.17,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:11.75,11.17,10,13.5,dBm,PASS
+NR,n1,384500,-60,11.17,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:11.75,24.92,0,99,dB,PASS
+NR,n1,384500,-60,11.00,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:11.75,11.00,10,13.5,dBm,PASS
+NR,n1,384500,-60,11.00,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:11.75,25.14,0,99,dB,PASS
+NR,n1,384500,-60,10.88,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:11.75,10.88,10,13.5,dBm,PASS
+NR,n1,384500,-60,10.88,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:11.75,24.64,0,99,dB,PASS
+NR,n1,384500,-60,0.88,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:1.75,0.88,0,3.5,dBm,PASS
+NR,n1,384500,-60,0.88,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:1.75,18.23,0,99,dB,PASS
+NR,n1,384500,-60,0.96,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:1.75,0.96,0,3.5,dBm,PASS
+NR,n1,384500,-60,0.96,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:1.75,18.26,0,99,dB,PASS
+NR,n1,384500,-60,1.02,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:1.75,1.02,0,3.5,dBm,PASS
+NR,n1,384500,-60,1.02,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:1.75,22.55,0,99,dB,PASS
+NR,n1,384500,-60,0.91,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:1.75,0.91,0,3.5,dBm,PASS
+NR,n1,384500,-60,0.91,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:1.75,22.21,0,99,dB,PASS
+NR,n1,384500,-60,-28.84,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:-28.25,-28.84,-30,-26.5,dBm,PASS
+NR,n1,384500,-60,-28.84,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:-28.25,29.58,0,99,dB,PASS
+NR,n1,384500,-60,-28.82,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:-28.25,-28.82,-30,-26.5,dBm,PASS
+NR,n1,384500,-60,-28.82,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:-28.25,30.49,0,99,dB,PASS
+NR,n1,384500,-60,-28.94,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:-28.25,-28.94,-30,-26.5,dBm,PASS
+NR,n1,384500,-60,-28.94,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:-28.25,26.04,0,99,dB,PASS
+NR,n1,384500,-60,-28.76,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power: TargetPow:-28.25,-28.76,-30,-26.5,dBm,PASS
+NR,n1,384500,-60,-28.76,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission: TargetPow:-28.25,25.23,0,99,dB,PASS
+NR,n1,384500,-60,-38.81,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power:MinPower,-38.81,-40,-36.5,dBm,PASS
+NR,n1,384500,-60,-38.81,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission:MinPower,26.52,0,99,dB,PASS
+NR,n1,384500,-60,-38.79,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power:MinPower,-38.79,-40,-36.5,dBm,PASS
+NR,n1,384500,-60,-38.79,DFT,NR_5MHZ,SCS15,DFT_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission:MinPower,25.93,0,99,dB,PASS
+NR,n1,384500,-60,-38.85,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power:MinPower,-38.85,-40,-36.5,dBm,PASS
+NR,n1,384500,-60,-38.85,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Left:1@1,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission:MinPower,24.13,0,99,dB,PASS
+NR,n1,384500,-60,-38.76,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Uplink Power:MinPower,-38.76,-40,-36.5,dBm,PASS
+NR,n1,384500,-60,-38.76,CP,NR_5MHZ,SCS15,CP_Inner_1RB_Right:1@23,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_3_In_band_emissions,Inband Emission:MinPower,23.08,0,99,dB,PASS

@@ -1,0 +1,53 @@
+startTime:2021/1/11 10:31:54
+toolVersion:1.0.7654.38979
+PASS:12,FAIL:0,Total:18
+Time:00:02:32
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n78,620334,-60,22.81,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:32:56,EVM Equalizer Spectrum Flatness: Ripple1,0.60,0,5.4,dB,PASS
+NR,n78,620334,-60,22.81,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:32:56,EVM Equalizer Spectrum Flatness: Ripple2,0.40,0,9.4,dB,PASS
+NR,n78,620334,-60,22.81,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:32:56,EVM Equalizer Spectrum Flatness: Ripple12,0.30,0,6.4,dB,PASS
+NR,n78,620334,-60,22.81,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:32:56,EVM Equalizer Spectrum Flatness: Ripple21,0.69,0,8.4,dB,PASS
+NR,n78,620334,-60,19.34,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:32:58,EVM Equalizer Spectrum Flatness: Ripple1,0.57,0,5.4,dB,PASS
+NR,n78,620334,-60,19.34,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:32:58,EVM Equalizer Spectrum Flatness: Ripple2,0.31,0,9.4,dB,PASS
+NR,n78,620334,-60,19.34,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:32:58,EVM Equalizer Spectrum Flatness: Ripple12,0.24,0,6.4,dB,PASS
+NR,n78,620334,-60,19.34,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:32:58,EVM Equalizer Spectrum Flatness: Ripple21,0.65,0,8.4,dB,PASS
+NR,n78,636666,-60,22.84,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:12,EVM Equalizer Spectrum Flatness: Ripple1,0.71,0,5.4,dB,PASS
+NR,n78,636666,-60,22.84,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:12,EVM Equalizer Spectrum Flatness: Ripple2,N/A,0,9.4,dB,PASS
+NR,n78,636666,-60,22.84,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:12,EVM Equalizer Spectrum Flatness: Ripple12,N/A,0,6.4,dB,PASS
+NR,n78,636666,-60,22.84,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:12,EVM Equalizer Spectrum Flatness: Ripple21,N/A,0,8.4,dB,PASS
+NR,n78,636666,-60,19.24,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:14,EVM Equalizer Spectrum Flatness: Ripple1,0.64,0,5.4,dB,PASS
+NR,n78,636666,-60,19.24,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:14,EVM Equalizer Spectrum Flatness: Ripple2,N/A,0,9.4,dB,PASS
+NR,n78,636666,-60,19.24,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:14,EVM Equalizer Spectrum Flatness: Ripple12,N/A,0,6.4,dB,PASS
+NR,n78,636666,-60,19.24,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:14,EVM Equalizer Spectrum Flatness: Ripple21,N/A,0,8.4,dB,PASS
+NR,n78,653000,-60,21.91,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:29,EVM Equalizer Spectrum Flatness: Ripple1,0.50,0,5.4,dB,PASS
+NR,n78,653000,-60,21.91,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:29,EVM Equalizer Spectrum Flatness: Ripple2,0.38,0,9.4,dB,PASS
+NR,n78,653000,-60,21.91,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:29,EVM Equalizer Spectrum Flatness: Ripple12,0.16,0,6.4,dB,PASS
+NR,n78,653000,-60,21.91,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:29,EVM Equalizer Spectrum Flatness: Ripple21,0.72,0,8.4,dB,PASS
+NR,n78,653000,-60,18.50,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:30,EVM Equalizer Spectrum Flatness: Ripple1,0.46,0,5.4,dB,PASS
+NR,n78,653000,-60,18.50,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:30,EVM Equalizer Spectrum Flatness: Ripple2,0.31,0,9.4,dB,PASS
+NR,n78,653000,-60,18.50,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:30,EVM Equalizer Spectrum Flatness: Ripple12,0.10,0,6.4,dB,PASS
+NR,n78,653000,-60,18.50,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:30,EVM Equalizer Spectrum Flatness: Ripple21,0.67,0,8.4,dB,PASS
+NR,n78,621668,-60,22.78,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:45,EVM Equalizer Spectrum Flatness: Ripple1,1.15,0,5.4,dB,PASS
+NR,n78,621668,-60,22.78,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:45,EVM Equalizer Spectrum Flatness: Ripple2,0.41,0,9.4,dB,PASS
+NR,n78,621668,-60,22.78,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:45,EVM Equalizer Spectrum Flatness: Ripple12,0.31,0,6.4,dB,PASS
+NR,n78,621668,-60,22.78,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:45,EVM Equalizer Spectrum Flatness: Ripple21,1.26,0,8.4,dB,PASS
+NR,n78,621668,-60,19.29,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:47,EVM Equalizer Spectrum Flatness: Ripple1,1.25,0,5.4,dB,PASS
+NR,n78,621668,-60,19.29,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:47,EVM Equalizer Spectrum Flatness: Ripple2,0.27,0,9.4,dB,PASS
+NR,n78,621668,-60,19.29,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:47,EVM Equalizer Spectrum Flatness: Ripple12,0.23,0,6.4,dB,PASS
+NR,n78,621668,-60,19.29,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:33:47,EVM Equalizer Spectrum Flatness: Ripple21,1.28,0,8.4,dB,PASS
+NR,n78,636666,-60,22.59,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:1,EVM Equalizer Spectrum Flatness: Ripple1,1.27,0,5.4,dB,PASS
+NR,n78,636666,-60,22.59,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:1,EVM Equalizer Spectrum Flatness: Ripple2,N/A,0,9.4,dB,PASS
+NR,n78,636666,-60,22.59,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:1,EVM Equalizer Spectrum Flatness: Ripple12,N/A,0,6.4,dB,PASS
+NR,n78,636666,-60,22.59,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:1,EVM Equalizer Spectrum Flatness: Ripple21,N/A,0,8.4,dB,PASS
+NR,n78,636666,-60,19.07,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:2,EVM Equalizer Spectrum Flatness: Ripple1,1.26,0,5.4,dB,PASS
+NR,n78,636666,-60,19.07,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:2,EVM Equalizer Spectrum Flatness: Ripple2,N/A,0,9.4,dB,PASS
+NR,n78,636666,-60,19.07,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:2,EVM Equalizer Spectrum Flatness: Ripple12,N/A,0,6.4,dB,PASS
+NR,n78,636666,-60,19.07,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:2,EVM Equalizer Spectrum Flatness: Ripple21,N/A,0,8.4,dB,PASS
+NR,n78,651666,-60,21.88,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:17,EVM Equalizer Spectrum Flatness: Ripple1,1.68,0,5.4,dB,PASS
+NR,n78,651666,-60,21.88,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:17,EVM Equalizer Spectrum Flatness: Ripple2,0.07,0,9.4,dB,PASS
+NR,n78,651666,-60,21.88,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:17,EVM Equalizer Spectrum Flatness: Ripple12,0.14,0,6.4,dB,PASS
+NR,n78,651666,-60,21.88,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:17,EVM Equalizer Spectrum Flatness: Ripple21,1.61,0,8.4,dB,PASS
+NR,n78,651666,-60,18.29,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:18,EVM Equalizer Spectrum Flatness: Ripple1,1.68,0,5.4,dB,PASS
+NR,n78,651666,-60,18.29,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:18,EVM Equalizer Spectrum Flatness: Ripple2,0.21,0,9.4,dB,PASS
+NR,n78,651666,-60,18.29,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:18,EVM Equalizer Spectrum Flatness: Ripple12,0.17,0,6.4,dB,PASS
+NR,n78,651666,-60,18.29,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_4_2_4_EVM_equalizer_spectrum_flatness,2021-1-11 10:34:18,EVM Equalizer Spectrum Flatness: Ripple21,1.72,0,8.4,dB,PASS

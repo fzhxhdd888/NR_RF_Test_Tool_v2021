@@ -1,0 +1,29 @@
+startTime:2021/1/7 10:00:57
+toolVersion:1.0.7654.38979
+PASS:24,FAIL:0,Total:24
+Time:00:11:48
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n78,636666,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:4:32,Configured Transmitted Power,-10.02,-18,-2,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:4:52,Configured Transmitted Power,9.32,3,17,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:5:12,Configured Transmitted Power,14.41,9,21,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:5:32,Configured Transmitted Power,19.41,16.5,23.5,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:5:52,Configured Transmitted Power,-10.04,-18,-2,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:6:11,Configured Transmitted Power,9.35,3,17,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:6:31,Configured Transmitted Power,14.55,9,21,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_10MHZ,SCS30,DFT_Inner_Full:12@6,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:6:51,Configured Transmitted Power,19.41,16.5,23.5,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_50MHZ,SCS30,DFT_Inner_Full:64@32,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:7:23,Configured Transmitted Power,-10.58,-18,-2,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_50MHZ,SCS30,DFT_Inner_Full:64@32,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:7:42,Configured Transmitted Power,9.65,3,17,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_50MHZ,SCS30,DFT_Inner_Full:64@32,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:8:2,Configured Transmitted Power,14.39,9,21,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_50MHZ,SCS30,DFT_Inner_Full:64@32,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:8:21,Configured Transmitted Power,19.36,16.5,23.5,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_50MHZ,SCS30,DFT_Inner_Full:64@32,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:8:41,Configured Transmitted Power,-10.59,-18,-2,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_50MHZ,SCS30,DFT_Inner_Full:64@32,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:9:0,Configured Transmitted Power,9.67,3,17,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_50MHZ,SCS30,DFT_Inner_Full:64@32,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:9:19,Configured Transmitted Power,14.52,9,21,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_50MHZ,SCS30,DFT_Inner_Full:64@32,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:9:39,Configured Transmitted Power,19.59,16.5,23.5,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_100MHZ,SCS30,DFT_Inner_Full:135@67,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:10:11,Configured Transmitted Power,-10.43,-18,-2,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_100MHZ,SCS30,DFT_Inner_Full:135@67,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:10:31,Configured Transmitted Power,9.79,3,17,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_100MHZ,SCS30,DFT_Inner_Full:135@67,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:10:50,Configured Transmitted Power,14.78,9,21,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_100MHZ,SCS30,DFT_Inner_Full:135@67,0,NR_HalfPiBPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:11:9,Configured Transmitted Power,19.87,16.5,23.5,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_100MHZ,SCS30,DFT_Inner_Full:135@67,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:11:29,Configured Transmitted Power,-10.46,-18,-2,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_100MHZ,SCS30,DFT_Inner_Full:135@67,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:11:48,Configured Transmitted Power,9.81,3,17,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_100MHZ,SCS30,DFT_Inner_Full:135@67,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:12:8,Configured Transmitted Power,14.67,9,21,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_100MHZ,SCS30,DFT_Inner_Full:135@67,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_2_4_Configured_transmitted_power,2021-1-7 10:12:27,Configured Transmitted Power,19.50,16.5,23.5,dBm,PASS

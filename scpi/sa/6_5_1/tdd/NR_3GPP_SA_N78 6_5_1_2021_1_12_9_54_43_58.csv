@@ -1,0 +1,12 @@
+startTime:2021/1/12 9:54:42
+toolVersion:1.0.7654.38979
+PASS:7,FAIL:0,Total:9
+Time:00:02:35
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n78,620334,-60,19.34,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_5_1_Occupied_bandwidth,2021-1-12 9:55:43,Occupied bandwidth,8.56,0,10,dBm,PASS
+NR,n78,636666,-60,19.22,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_5_1_Occupied_bandwidth,2021-1-12 9:55:57,Occupied bandwidth,8.58,0,10,dBm,PASS
+NR,n78,653000,-60,18.53,CP,NR_10MHZ,SCS30,CP_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_5_1_Occupied_bandwidth,2021-1-12 9:56:11,Occupied bandwidth,8.56,0,10,dBm,PASS
+NR,n78,621668,-60,19.30,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_5_1_Occupied_bandwidth,2021-1-12 9:56:25,Occupied bandwidth,47.38,0,50,dBm,PASS
+NR,n78,636666,-60,19.09,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_5_1_Occupied_bandwidth,2021-1-12 9:56:39,Occupied bandwidth,47.39,0,50,dBm,PASS
+NR,n78,651666,-60,18.39,CP,NR_50MHZ,SCS30,CP_Outer_Full:133@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_5_1_Occupied_bandwidth,2021-1-12 9:56:53,Occupied bandwidth,47.38,0,50,dBm,PASS
+NR,n78,623334,-60,19.33,CP,NR_100MHZ,SCS30,CP_Outer_Full:273@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_5_1_Occupied_bandwidth,2021-1-12 9:57:7,Occupied bandwidth,97.22,0,100,dBm,PASS

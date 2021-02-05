@@ -1,0 +1,11 @@
+startTime:2021/1/13 10:07:34
+toolVersion:1.0.7654.38979
+PASS:6,FAIL:0,Total:6
+Time:00:02:30
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n78,636666,-26,,DFT,NR_10MHZ,SCS30,DFT_RefSensRBAllocation:24@0,2,NR_QPSK,CP_Outer_Full:24@0,20,NA,NA,NA,NA,NA,NR_7_4_Maximum_input_level,2021-1-13 10:8:36,BLER,3.57,0,5,%,PASS
+NR,n78,636666,-28,,DFT,NR_10MHZ,SCS30,DFT_RefSensRBAllocation:24@0,2,NR_QPSK,CP_Outer_Full:24@0,27,NA,NA,NA,NA,NA,NR_7_4_Maximum_input_level,2021-1-13 10:8:50,BLER,3.57,0,5,%,PASS
+NR,n78,636666,-22,,DFT,NR_50MHZ,SCS30,DFT_RefSensRBAllocation:128@0,2,NR_QPSK,CP_Outer_Full:133@0,20,NA,NA,NA,NA,NA,NR_7_4_Maximum_input_level,2021-1-13 10:9:16,BLER,0.00,0,5,%,PASS
+NR,n78,636666,-24,,DFT,NR_50MHZ,SCS30,DFT_RefSensRBAllocation:128@0,2,NR_QPSK,CP_Outer_Full:133@0,27,NA,NA,NA,NA,NA,NR_7_4_Maximum_input_level,2021-1-13 10:9:20,BLER,3.57,0,5,%,PASS
+NR,n78,636666,-21,,DFT,NR_100MHZ,SCS30,DFT_RefSensRBAllocation:270@0,2,NR_QPSK,CP_Outer_Full:273@0,20,NA,NA,NA,NA,NA,NR_7_4_Maximum_input_level,2021-1-13 10:9:47,BLER,0.00,0,5,%,PASS
+NR,n78,636666,-23,,DFT,NR_100MHZ,SCS30,DFT_RefSensRBAllocation:270@0,2,NR_QPSK,CP_Outer_Full:273@0,27,NA,NA,NA,NA,NA,NR_7_4_Maximum_input_level,2021-1-13 10:9:50,BLER,3.57,0,5,%,PASS

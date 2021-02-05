@@ -1,0 +1,9 @@
+startTime:2021/1/7 13:33:00
+toolVersion:1.0.7654.38979
+PASS:4,FAIL:0,Total:9
+Time:00:01:45
+System,Band,Channel,CellPower,UEPower,Waveform,BW,SCS,UL RB Allocation,UL MCS,UL Modulation,DL RB Allocation,DL MCS,LTE Band,LTE Channel,LTE RB Allocation,LTE BW,LTE Modulation,TestCase,StartTime,Item,MeasuredValue,LowLimit,UpLimit,Unit,Result
+NR,n78,620334,-60,,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_1_Minimum_output_power,2021-1-7 13:33:46,Minimum Output Power,-44.62,-99,-38.7,dBm,PASS
+NR,n78,636666,-60,,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_1_Minimum_output_power,2021-1-7 13:34:1,Minimum Output Power,-44.27,-99,-38.7,dBm,PASS
+NR,n78,653000,-60,,DFT,NR_10MHZ,SCS30,DFT_Outer_Full:24@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_1_Minimum_output_power,2021-1-7 13:34:16,Minimum Output Power,-44.70,-99,-38.7,dBm,PASS
+NR,n78,621668,-60,,DFT,NR_50MHZ,SCS30,DFT_Outer_Full:128@0,2,NR_QPSK,NA,NA,NA,NA,NA,NA,NA,NR_6_3_1_Minimum_output_power,2021-1-7 13:34:31,Minimum Output Power,-43.99,-99,-34.7,dBm,PASS
